@@ -1,0 +1,13 @@
+#Ceny z³ota w dolarach (oko³o 10 tyœ rekordów) od 2010 do najnowszych danych
+
+install.packages("Quandl")
+library(Quandl)
+Quandl("LBMA/GOLD", api_key="jJLD2gkVUNrszRRebz2U",start_date = "2010-01-01",end_date=Sys.Date())
+
+
+
+#Ceny srebra w dolarach (oko³o 10 tyœ rekordów) od 2010 do najnowszych danych
+
+install.packages("Quandl")
+library(Quandl)
+Quandl("LBMA/SILVER", api_key="jJLD2gkVUNrszRRebz2U",start_date = "2010-01-01",end_date=Sys.Date())
