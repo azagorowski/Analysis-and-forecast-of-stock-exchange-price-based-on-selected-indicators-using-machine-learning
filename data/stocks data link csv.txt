@@ -1,0 +1,12 @@
+# Ponizszy link umozliwia pobranie danych amerykanskich spolek gieldowych od poczatku notowania
+do dnia dzisiejszego w pliku CSV. Zmieniamy tylko koncowke linku np. z APPL(Apple) na KO (CocaCola) i mamy juz 
+dane cen akcji CocaColi od 1962 do dziœ. 
+
+Mozemy równiez zamienic koncowke na S&P500 i sciagnac CSV dane gieldowe indexu dla 500 amerykanskich
+przedsiebiortsw o najwikeszej kapitalizacji.
+
+
+http://download.macrotrends.net/assets/php/stock_data_export.php?t=AAPL
+
+
+
