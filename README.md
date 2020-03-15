@@ -4,7 +4,7 @@ The graduate project on WSB University in "Data Engineering. Big Data" field of 
 **Release date: May 2020**
 
 Project is being created by 3 authors:
- - azagoroski
+ - azagorowski
  - LukaszStarke
  - CuriousCocainist
 
