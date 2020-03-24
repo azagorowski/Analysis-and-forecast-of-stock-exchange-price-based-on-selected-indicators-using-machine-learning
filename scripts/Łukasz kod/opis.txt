@@ -1,0 +1,2 @@
+kod do wykresów w R studio - jedynie wykres coronawirusa musialem zrobic w pythonie
+bo R mial problem z pobraniem linku

@@ -1,0 +1,601 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+```{r, fig.width = 10, fig.height = 10, fig.align = "center", echo = FALSE}
+
+#install.packages("Quandl")
+library(plotly)
+library(tidyr)
+library(hrbrthemes)
+library(ggplot2)
+library(dplyr)
+library(Quandl)
+
+GoldPrices <- Quandl("LBMA/GOLD", api_key="jJLD2gkVUNrszRRebz2U",start_date = "2010-01-01",end_date=Sys.Date())
+
+names(GoldPrices)[names(GoldPrices) == "USD (PM)"] <- "USD_PM"
+
+# Usual area chart
+GP <- GoldPrices %>%
+  ggplot(aes(x=Date, y=USD_PM)) +
+    coord_cartesian( ylim = c(1000, 1900))+
+    geom_area(fill="#69b3a2", alpha=0.5) +
+    geom_line(color="#69b3a2") +
+    ylab("Gold Value in Years") +
+    theme_ipsum()
+
+GP <- ggplotly(GP)
+GP 
+
+```
+
+```{r, fig.width = 10, fig.height = 10, fig.align = "center", echo = FALSE}
+
+#install.packages("Quandl")
+library(hrbrthemes)
+library(ggplot2)
+library(dplyr)
+library(Quandl)
+SilverPrices<- Quandl("LBMA/SILVER", api_key="jJLD2gkVUNrszRRebz2U",start_date = "2010-01-01",end_date=Sys.Date())
+
+# Usual area chart
+SP <- SilverPrices %>%
+  ggplot(aes(x=Date, y=USD)) +
+    coord_cartesian( ylim = c(15, 50))+
+    geom_area(fill="#69b3a2", alpha=0.5,) +
+    geom_line(color="#69b3a2") +
+    ylab("Silver Value in Years") +
+    theme_ipsum()
+
+SP <- ggplotly(SP)
+SP 
+
+
+```
+
+```{r, fig.width = 10, fig.height = 10, fig.align = "center", echo = FALSE}
+
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=AAPL')
+
+
+AssetsDataFrame <- read.table(text=a, skip=7000, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 350))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("Apple Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{r}
+
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=KO')
+
+
+AssetsDataFrame <- read.table(text=a, skip=12000, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 75))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("CocaCola Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{r}
+
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=S&P500')
+
+
+AssetsDataFrame <- read.table(text=a, skip=6000, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 15))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("S&P Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=S&P500')
+
+
+AssetsDataFrame <- read.table(text=a, skip=6000, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 15))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("S&P Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=MSFT')
+
+
+AssetsDataFrame <- read.table(text=a, skip=6000, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 200))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("Microsoft Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=AMZN')
+
+
+AssetsDataFrame <- read.table(text=a, skip=2000, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 2300))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("Amazon Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=FB')
+
+
+AssetsDataFrame <- read.table(text=a, skip=, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 250))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("FB Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=BA')
+
+
+AssetsDataFrame <- read.table(text=a, skip=4000, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 450))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("Boening Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=BA')
+
+
+AssetsDataFrame <- read.table(text=a, skip=4000, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 450))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("Boening Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=XOM')
+
+
+AssetsDataFrame <- read.table(text=a, skip=10000, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 115))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("Exxom mobil Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=WMT')
+
+
+AssetsDataFrame <- read.table(text=a, skip=9400, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(50, 120))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("Exxom mobil Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=TWTR')
+
+
+AssetsDataFrame <- read.table(text=a, skip=50, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 75))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("Twitter Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=TWTR')
+
+
+AssetsDataFrame <- read.table(text=a, skip=50, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 75))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("Twitter Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+
+a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=ALK')
+
+
+AssetsDataFrame <- read.table(text=a, skip=6600, sep=",")
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
+names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 110))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("Alaska Air group INC Value in Years") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{python echo=FALSE, auto_open=False}
+import pandas as pd
+import numpy as np
+import datetime as dt
+import plotly.express as px
+
+url = 'https://covid.ourworldindata.org/data/ecdc/total_cases.csv'
+CoronavirusDataFrame =pd.read_csv(url , sep=',')
+
+
+fig = px.line(CoronavirusDataFrame, x='date', y='World')
+fig.show()
+
+
+```
+
+```{r}
+
+CoronavirusDataFrame$date <- as.Date(CoronavirusDataFrame$date)
+
+# Usual area chart
+a <- CoronavirusDataFrame %>%
+  ggplot(aes(x=date, y=world)) +
+    coord_cartesian( ylim = c(0, 160000))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("Coronavirus spread") +
+    theme_ipsum()
+    
+
+# Turn it interactive with ggplotly
+a <- ggplotly(a)
+a 
+```
+
+
+```{r}
+
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(hrbrthemes)
+#install.packages(RCurl)
+library(RCurl)
+library(httr)
+
+library(RCurl)
+r <- getURL('https://covid.ourworldindata.org/data/ecdc/total_cases.csv')
+corona <- read.table(text=r, sep=",")
+
+
+AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
+
+# Usual area chart
+a <- AssetsDataFrame %>%
+  ggplot(aes(x=Date, y=USD_Closed)) +
+    coord_cartesian( ylim = c(0, 110))+
+    geom_area(fill="#69b3a6", alpha=0.5,) +
+    geom_line(color="#69b3a6") +
+    ylab("Alaska Air group INC Value in Years") +
+    theme_ipsum()
+
+CoronavirusDataFrame<-content(r, "text")
+
+
+
+#CoronavirusData<- read.table(text=r, sep=",")
+
+CURL_SSLVERSION_TLSv1_2 <- 6L
+opt <- RCurl::curlOptions(verbose = TRUE, sslversion = 
+CURL_SSLVERSION_TLSv1_2)
+print( RCurl::getURL("https://covid.ourworldindata.org/data/total_cases.csv", .opts = opt))
+
+
+
+
+```
