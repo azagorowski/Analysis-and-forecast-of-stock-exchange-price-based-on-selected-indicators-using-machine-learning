@@ -1,0 +1,3 @@
+#Ca³kowita liczba zarazonych coronavirusem
+
+https://covid.ourworldindata.org/data/ecdc/total_cases.csv
