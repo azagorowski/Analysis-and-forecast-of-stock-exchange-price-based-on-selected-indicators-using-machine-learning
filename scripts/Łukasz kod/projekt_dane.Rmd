@@ -6,7 +6,7 @@ output:
 ---
 
 
-```{r, fig.width = 10, fig.height = 10, fig.align = "center", echo = FALSE}
+```{r ceny zlota, fig.width = 10, fig.height = 10, fig.align = "center", echo = FALSE}
 
 #install.packages("Quandl")
 library(plotly)
@@ -34,7 +34,7 @@ GP
 
 ```
 
-```{r, fig.width = 10, fig.height = 10, fig.align = "center", echo = FALSE}
+```{r Ceny srebra, fig.width = 10, fig.height = 10, fig.align = "center", echo = FALSE}
 
 #install.packages("Quandl")
 library(hrbrthemes)
@@ -58,7 +58,7 @@ SP
 
 ```
 
-```{r, fig.width = 10, fig.height = 10, fig.align = "center", echo = FALSE}
+```{r Akcje apple, fig.width = 10, fig.height = 10, fig.align = "center", echo = FALSE}
 
 library(ggplot2)
 library(dplyr)
@@ -92,108 +92,7 @@ a
 ```
 
 
-```{r}
-
-library(ggplot2)
-library(dplyr)
-library(plotly)
-library(hrbrthemes)
-#install.packages(RCurl)
-library(RCurl)
-
-a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=KO')
-
-
-AssetsDataFrame <- read.table(text=a, skip=12000, sep=",")
-names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
-names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
-
-AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
-
-# Usual area chart
-a <- AssetsDataFrame %>%
-  ggplot(aes(x=Date, y=USD_Closed)) +
-    coord_cartesian( ylim = c(0, 75))+
-    geom_area(fill="#69b3a6", alpha=0.5,) +
-    geom_line(color="#69b3a6") +
-    ylab("CocaCola Value in Years") +
-    theme_ipsum()
-    
-
-# Turn it interactive with ggplotly
-a <- ggplotly(a)
-a 
-```
-
-
-```{r}
-
-library(ggplot2)
-library(dplyr)
-library(plotly)
-library(hrbrthemes)
-#install.packages(RCurl)
-library(RCurl)
-
-a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=S&P500')
-
-
-AssetsDataFrame <- read.table(text=a, skip=6000, sep=",")
-names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
-names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
-
-AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
-
-# Usual area chart
-a <- AssetsDataFrame %>%
-  ggplot(aes(x=Date, y=USD_Closed)) +
-    coord_cartesian( ylim = c(0, 15))+
-    geom_area(fill="#69b3a6", alpha=0.5,) +
-    geom_line(color="#69b3a6") +
-    ylab("S&P Value in Years") +
-    theme_ipsum()
-    
-
-# Turn it interactive with ggplotly
-a <- ggplotly(a)
-a 
-```
-
-
-```{r}
-library(ggplot2)
-library(dplyr)
-library(plotly)
-library(hrbrthemes)
-#install.packages(RCurl)
-library(RCurl)
-
-a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=S&P500')
-
-
-AssetsDataFrame <- read.table(text=a, skip=6000, sep=",")
-names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
-names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
-
-AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
-
-# Usual area chart
-a <- AssetsDataFrame %>%
-  ggplot(aes(x=Date, y=USD_Closed)) +
-    coord_cartesian( ylim = c(0, 15))+
-    geom_area(fill="#69b3a6", alpha=0.5,) +
-    geom_line(color="#69b3a6") +
-    ylab("S&P Value in Years") +
-    theme_ipsum()
-    
-
-# Turn it interactive with ggplotly
-a <- ggplotly(a)
-a 
-```
-
-
-```{r}
+```{r akcje microsoft}
 library(ggplot2)
 library(dplyr)
 library(plotly)
@@ -226,7 +125,7 @@ a
 ```
 
 
-```{r}
+```{r akcje amazon}
 library(ggplot2)
 library(dplyr)
 library(plotly)
@@ -259,7 +158,7 @@ a
 ```
 
 
-```{r}
+```{r akcje Fejsa}
 library(ggplot2)
 library(dplyr)
 library(plotly)
@@ -270,7 +169,7 @@ library(RCurl)
 a<- getURL('http://download.macrotrends.net/assets/php/stock_data_export.php?t=FB')
 
 
-AssetsDataFrame <- read.table(text=a, skip=, sep=",")
+AssetsDataFrame <- read.table(text=a, skip=17, sep=",")
 names(AssetsDataFrame)[names(AssetsDataFrame) == "V1"] <- "Date"
 names(AssetsDataFrame)[names(AssetsDataFrame) == "V5"] <- "USD_Closed"
 
@@ -292,7 +191,7 @@ a
 ```
 
 
-```{r}
+```{r akcje Boeninga}
 library(ggplot2)
 library(dplyr)
 library(plotly)
@@ -325,7 +224,7 @@ a
 ```
 
 
-```{r}
+```{r a}
 library(ggplot2)
 library(dplyr)
 library(plotly)
@@ -357,7 +256,7 @@ a <- ggplotly(a)
 a 
 ```
 
-```{r}
+```{r akcje exom mobil (energetyka)}
 library(ggplot2)
 library(dplyr)
 library(plotly)
@@ -390,7 +289,7 @@ a
 ```
 
 
-```{r}
+```{r akcje walmartu}
 library(ggplot2)
 library(dplyr)
 library(plotly)
@@ -413,7 +312,7 @@ a <- AssetsDataFrame %>%
     coord_cartesian( ylim = c(50, 120))+
     geom_area(fill="#69b3a6", alpha=0.5,) +
     geom_line(color="#69b3a6") +
-    ylab("Exxom mobil Value in Years") +
+    ylab("Walmart Value in Years") +
     theme_ipsum()
     
 
@@ -423,7 +322,7 @@ a
 ```
 
 
-```{r}
+```{r akcje twittera}
 library(ggplot2)
 library(dplyr)
 library(plotly)
@@ -489,7 +388,7 @@ a
 ```
 
 
-```{r}
+```{r akcje alaska air group}
 library(ggplot2)
 library(dplyr)
 library(plotly)
@@ -522,80 +421,51 @@ a
 ```
 
 
-```{python echo=FALSE, auto_open=False}
-import pandas as pd
-import numpy as np
-import datetime as dt
-import plotly.express as px
-
-url = 'https://covid.ourworldindata.org/data/ecdc/total_cases.csv'
-CoronavirusDataFrame =pd.read_csv(url , sep=',')
 
 
-fig = px.line(CoronavirusDataFrame, x='date', y='World')
-fig.show()
-
-
-```
-
-```{r}
-
-CoronavirusDataFrame$date <- as.Date(CoronavirusDataFrame$date)
-
-# Usual area chart
-a <- CoronavirusDataFrame %>%
-  ggplot(aes(x=date, y=world)) +
-    coord_cartesian( ylim = c(0, 160000))+
-    geom_area(fill="#69b3a6", alpha=0.5,) +
-    geom_line(color="#69b3a6") +
-    ylab("Coronavirus spread") +
-    theme_ipsum()
-    
-
-# Turn it interactive with ggplotly
-a <- ggplotly(a)
-a 
-```
-
-
-```{r}
-
+```{r coronawirus }
+library(httr)
 library(ggplot2)
 library(dplyr)
 library(plotly)
 library(hrbrthemes)
-#install.packages(RCurl)
-library(RCurl)
-library(httr)
+r <- GET("https://covid.ourworldindata.org/data/ecdc/total_cases.csv")
+a<-content(r, "parsed")
 
-library(RCurl)
-r <- getURL('https://covid.ourworldindata.org/data/ecdc/total_cases.csv')
-corona <- read.table(text=r, sep=",")
-
-
-AssetsDataFrame$Date <- as.Date(AssetsDataFrame$Date)
-
-# Usual area chart
-a <- AssetsDataFrame %>%
-  ggplot(aes(x=Date, y=USD_Closed)) +
-    coord_cartesian( ylim = c(0, 110))+
+CoronaGraph <- a %>%
+  ggplot(aes(x=date, y=World)) +
+    coord_cartesian( ylim = c(0, 600000))+
     geom_area(fill="#69b3a6", alpha=0.5,) +
     geom_line(color="#69b3a6") +
-    ylab("Alaska Air group INC Value in Years") +
+    ylab("Number of ppl") +
     theme_ipsum()
 
-CoronavirusDataFrame<-content(r, "text")
-
-
-
-#CoronavirusData<- read.table(text=r, sep=",")
-
-CURL_SSLVERSION_TLSv1_2 <- 6L
-opt <- RCurl::curlOptions(verbose = TRUE, sslversion = 
-CURL_SSLVERSION_TLSv1_2)
-print( RCurl::getURL("https://covid.ourworldindata.org/data/total_cases.csv", .opts = opt))
-
-
-
-
+CoronaGraph <- ggplotly(CoronaGraph)
+CoronaGraph
 ```
+```{r coronawirus prophet}
+library(prophet)
+library(plotly)
+library(ggplot2)
+library(dplyr)
+library( tidyverse)
+library( forecast)
+library(reshape2)
+
+
+
+coronaprophet <- mutate (
+a,
+ds = date ,  # Create new ds column from date using mutate
+y = World   # Create new y column from value using mutate
+)
+
+m <- prophet(coronaprophet,weekly.seasonality=10,yearly.seasonality = 10)
+future <- make_future_dataframe(m, periods = 30)
+
+forecast <- predict(m, future)
+dyplot.prophet(m, forecast,RangeSelector = TRUE)
+```
+
+
+
