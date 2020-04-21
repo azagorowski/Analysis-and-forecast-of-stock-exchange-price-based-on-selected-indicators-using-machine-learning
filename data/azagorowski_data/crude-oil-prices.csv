@@ -2,15 +2,15 @@ Macrotrends Data Download
 
 
 
-"DISCLAIMER AND TERMS OF USE: HISTORICAL DATA IS PROVIDED ""AS IS"" AND SOLELY"
+DISCLAIMER AND TERMS OF USE: HISTORICAL DATA IS PROVIDED "AS IS" AND SOLELY
 FOR INFORMATIONAL PURPOSES - NOT FOR TRADING PURPOSES OR ADVICE.
 NEITHER MACROTRENDS LLC NOR ANY OF OUR INFORMATION PROVIDERS WILL BE LIABLE
 FOR ANY DAMAGES RELATING TO YOUR USE OF THE DATA PROVIDED.
 
 
 
-"ATTRIBUTION: Proper attribution requires clear indication of the data source as ""www.macrotrends.net""."
-"A ""dofollow"" backlink to the originating page is also required if the data is displayed on a web page."
+ATTRIBUTION: Proper attribution requires clear indication of the data source as "www.macrotrends.net".
+A "dofollow" backlink to the originating page is also required if the data is displayed on a web page.
 
 
 date, value
@@ -3303,25 +3303,26 @@ date, value
 2020-04-15,19.8700
 2020-04-16,21.0020
 2020-04-17,20.9740
-21.04.2020
-21.04.2020
-22.04.2020
-23.04.2020
-24.04.2020
-25.04.2020
-26.04.2020
-27.04.2020
-28.04.2020
-29.04.2020
-30.04.2020
-01.05.2020
-02.05.2020
-03.05.2020
-04.05.2020
-05.05.2020
-06.05.2020
-07.05.2020
-08.05.2020
-09.05.2020
-10.05.2020
-11.05.2020
+2020-04-20,0.0100
+2020-04-21,9.0600
+2020-04-22
+2020-04-23
+2020-04-24
+2020-04-25
+2020-04-26
+2020-04-27
+2020-04-28
+2020-04-29
+2020-04-30
+2020-05-01
+2020-05-02
+2020-05-03
+2020-05-04
+2020-05-05
+2020-05-06
+2020-05-07
+2020-05-08
+2020-05-09
+2020-05-10
+2020-05-11
+2020-05-12
