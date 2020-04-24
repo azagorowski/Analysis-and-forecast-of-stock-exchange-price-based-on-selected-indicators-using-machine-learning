@@ -33,6 +33,8 @@ df <- get_data("WHOSIS_000001")
 glimpse(df)
 head(df)
 
+write.csv(x=df, file="WHOSIS_000001.csv")
+
 ```
 
 4.... i przedstawić je w formie graficznej
