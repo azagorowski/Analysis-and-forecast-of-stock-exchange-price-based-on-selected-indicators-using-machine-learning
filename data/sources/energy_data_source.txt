@@ -1,3 +1,0 @@
-1) https://ourworldindata.org/energy
-2) https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
-3) https://www.quandl.com/search?filters=%5B%22Energy%22%5D&query=energy
