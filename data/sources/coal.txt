@@ -1,5 +1,0 @@
-1) https://yearbook.enerdata.net/coal-lignite/coal-production-data.html
-
-2) https://www.iea.org/data-and-statistics/charts/world-total-coal-production-1971-2018
-
-3) https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=nrg_cb_sff&lang=en
