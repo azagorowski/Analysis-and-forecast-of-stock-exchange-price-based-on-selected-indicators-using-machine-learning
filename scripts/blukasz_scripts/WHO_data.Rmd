@@ -24,7 +24,7 @@ codes[grepl("[Ll]ife expectancy", codes$display), ]
 
 ```
 
-3. Znając kod możemy ściągnać interesujące nas dane...
+3. Znając kod możemy ściągnać interesujące nas dane do ramki danych i zapisać do pliku... 
 
 ```{r}
 
@@ -32,6 +32,12 @@ df <- get_data("WHOSIS_000001")
 
 glimpse(df)
 head(df)
+
+wd1 <- getwd()
+setwd("..")
+setwd("..")
+wd2 <- setwd("./data/blukasz_data")
+getwd()
 
 write.csv(x=df, file="WHOSIS_000001.csv")
 
@@ -65,6 +71,14 @@ df <- get_data("MDG_0000000001")
 glimpse(df)
 head(df)
 
+wd1 <- getwd()
+setwd("..")
+setwd("..")
+wd2 <- setwd("./data/blukasz_data")
+getwd()
+
+write.csv(x=df, file="MDG_0000000001.csv")
+
 ```
 
 ```{r}
@@ -92,9 +106,20 @@ df <- get_data("SI_POV_DAY1")
 glimpse(df)
 head(df)
 
+wd1 <- getwd()
+setwd("..")
+setwd("..")
+wd2 <- setwd("./data/blukasz_data")
+getwd()
+
+write.csv(x=df, file="SI_POV_DAY1.csv")
+
+
 ```
 
 ```{r}
+library(tidyr)
+
 df %>%
   drop_na(region) %>%
   filter(year >= 2010) %>%

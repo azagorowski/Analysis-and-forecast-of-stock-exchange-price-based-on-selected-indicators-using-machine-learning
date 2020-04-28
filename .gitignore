@@ -1,2 +1,5 @@
-#Ignorowanie katalogu ipynb checkpoints
+#Katalog ipynb checkpoints
 .ipynb_checkpoints/
+
+#Notatniki .rmd  wyrenderowane w html
+*.nb.html
