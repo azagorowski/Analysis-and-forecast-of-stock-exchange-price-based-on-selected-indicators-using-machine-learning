@@ -1,7 +1,0 @@
-cwd = os.getcwd()
-par_dir1 = os.path.split(cwd)[0]
-par_dir2 = os.path.split(par_dir1)[0]
-print(par_dir2)
-
-res = os.path.join(par_dir2,"data", "azagorowski_data")
-print(res)
