@@ -3,3 +3,5 @@
 
 #Notatniki .rmd  wyrenderowane w html
 *.nb.html
+
+*.Rhistory
