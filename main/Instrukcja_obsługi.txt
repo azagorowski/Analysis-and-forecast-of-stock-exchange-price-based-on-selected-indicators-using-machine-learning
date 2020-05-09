@@ -1,0 +1,27 @@
+Instrukcja obs³ugi projektu
+
+Programy potrzebne do odpalenia projektu
+
+-Jupyter Notebook z zainstalowanym œrodowiskiem Anaconda3
+
+
+Bilbioteki potrzebne do zainstalowania w Anaconda Prompt 
+-xgboost 
+1) Odpalamy Anaconda Prompt 
+2) Wpisujemy "conda install -c anaconda py-xgboost"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Ÿród³o:https://stackoverflow.com/questions/35139108/how-to-install-xgboost-in-anaconda-python-windows-platform
+
+-Prophet
+1) Odpalamy Anaconda Prompt 
+2) Wpisujemy "conda install -c conda-forge fbprophet"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Ÿrod³o: https://facebook.github.io/prophet/docs/installation.html
+
+Scikit-learn
+1) Odpalamy Anaconda Prompt 
+2) Wpisujemy "conda install -c anaconda scikit-learn"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+https://anaconda.org/anaconda/scikit-learn
+
+W os.ochir 
