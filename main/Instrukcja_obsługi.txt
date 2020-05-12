@@ -24,4 +24,19 @@ Scikit-learn
 3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
 https://anaconda.org/anaconda/scikit-learn
 
-W os.ochir 
+Quandl
+1) Odpalamy Anaconda Prompt 
+2) Wpisujemy "conda install -c anaconda quandl"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+https://anaconda.org/anaconda/quandl
+
+Aby uruchomiæ notebooki z predykcjami Prophet z folderu azagorowski_scripts nale¿y podaæ w pierwszym chunku kodu
+w os.chdir() swoj¹ pe³n¹ scie¿ke do folderu z plikami csv (koñcowka scie¿ki: data/azagorowski_data)
+oraz w chunku znajdujacym siê pod rozdzia³em "Saving DF with predictions to DB" wprowadziæ w os.chdir(), pe³n¹
+œcie¿ke do folderu gdzie znajduje siê baza danych sqllite (predictions.db), (koñcówka scie¿ki: /data)
+
+
+Aby uruchomiæ notebooki z predykcjami Prophet z folderu lukasz_scripts
+w chunku znajdujacym siê pod rozdzia³em "Saving DF with predictions to DB" wprowadziæ pe³n¹ w os.chdir()
+œcie¿ke do folderu gdzie znajduje siê baza danych sqllite (predictions.db), (koñcówka scie¿ki: /data)
+
