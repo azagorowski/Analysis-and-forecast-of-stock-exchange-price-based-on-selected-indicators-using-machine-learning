@@ -1,0 +1,37 @@
+Instrukcja obsługi projektu
+---------------------------
+
+I. Środowisko potrzebne do odpalenia projektu
+-Dystrybucja pythona ANACONDA, wersja 2019.10 (https://www.anaconda.com/products/individual)
+
+
+II. Bilbioteki, które należy doinstalować ręcznie (używają managera paczek Conda lub pip)  
+---XGBOOST---
+1) Odpalamy Anaconda Prompt 
+2) Wpisujemy "conda install -c anaconda py-xgboost"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Źródło: https://stackoverflow.com/questions/35139108/how-to-install-xgboost-in-anaconda-python-windows-platform
+
+---PROPHET---
+1) Odpalamy Anaconda Prompt 
+2) Wpisujemy "conda install -c conda-forge fbprophet"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Źródło: https://facebook.github.io/prophet/docs/installation.html
+
+---SCIKIT-LEARN---
+1) Odpalamy Anaconda Prompt 
+2) Wpisujemy "conda install -c anaconda scikit-learn"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Źródło: https://anaconda.org/anaconda/scikit-learn
+
+---QUANDL---
+1) Odpalamy Anaconda Prompt 
+2) Wpisujemy "conda install -c anaconda quandl"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Źródło: https://anaconda.org/anaconda/quandl
+
+---PYJSTAT---
+1) w konsoli pythona (np. w IDE Spyder) wpisujemy "pip install pyjstat"
+Źródło: https://pypi.org/project/pyjstat/
+
+

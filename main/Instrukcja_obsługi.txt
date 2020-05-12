@@ -1,8 +1,8 @@
-Instrukcja obs³ugi projektu
+Instrukcja obsÅ‚ugi projektu
 
 Programy potrzebne do odpalenia projektu
 
--Jupyter Notebook z zainstalowanym œrodowiskiem Anaconda3
+-Jupyter Notebook z zainstalowanym Å“rodowiskiem Anaconda3
 
 
 Bilbioteki potrzebne do zainstalowania w Anaconda Prompt 
@@ -10,13 +10,13 @@ Bilbioteki potrzebne do zainstalowania w Anaconda Prompt
 1) Odpalamy Anaconda Prompt 
 2) Wpisujemy "conda install -c anaconda py-xgboost"
 3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
-Ÿród³o:https://stackoverflow.com/questions/35139108/how-to-install-xgboost-in-anaconda-python-windows-platform
+Å¸rÃ³dÂ³o:https://stackoverflow.com/questions/35139108/how-to-install-xgboost-in-anaconda-python-windows-platform
 
 -Prophet
 1) Odpalamy Anaconda Prompt 
 2) Wpisujemy "conda install -c conda-forge fbprophet"
 3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
-Ÿrod³o: https://facebook.github.io/prophet/docs/installation.html
+Å¸rodÂ³o: https://facebook.github.io/prophet/docs/installation.html
 
 Scikit-learn
 1) Odpalamy Anaconda Prompt 
@@ -30,13 +30,13 @@ Quandl
 3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
 https://anaconda.org/anaconda/quandl
 
-Aby uruchomiæ notebooki z predykcjami Prophet z folderu azagorowski_scripts nale¿y podaæ w pierwszym chunku kodu
-w os.chdir() swoj¹ pe³n¹ scie¿ke do folderu z plikami csv (koñcowka scie¿ki: data/azagorowski_data)
-oraz w chunku znajdujacym siê pod rozdzia³em "Saving DF with predictions to DB" wprowadziæ w os.chdir(), pe³n¹
-œcie¿ke do folderu gdzie znajduje siê baza danych sqllite (predictions.db), (koñcówka scie¿ki: /data)
+Aby uruchomiÃ¦ notebooki z predykcjami Prophet z folderu azagorowski_scripts naleÂ¿y podaÃ¦ w pierwszym chunku kodu
+w os.chdir() swojÂ¹ peÂ³nÂ¹ scieÂ¿ke do folderu z plikami csv (koÃ±cowka scieÂ¿ki: data/azagorowski_data)
+oraz w chunku znajdujacym siÃª pod rozdziaÂ³em "Saving DF with predictions to DB" wprowadziÃ¦ w os.chdir(), peÂ³nÂ¹
+Å“cieÂ¿ke do folderu gdzie znajduje siÃª baza danych sqllite (predictions.db), (koÃ±cÃ³wka scieÂ¿ki: /data)
 
 
-Aby uruchomiæ notebooki z predykcjami Prophet z folderu lukasz_scripts
-w chunku znajdujacym siê pod rozdzia³em "Saving DF with predictions to DB" wprowadziæ pe³n¹ w os.chdir()
-œcie¿ke do folderu gdzie znajduje siê baza danych sqllite (predictions.db), (koñcówka scie¿ki: /data)
+Aby uruchomiÃ¦ notebooki z predykcjami Prophet z folderu lukasz_scripts
+w chunku znajdujacym siÃª pod rozdziaÂ³em "Saving DF with predictions to DB" wprowadziÃ¦ peÂ³nÂ¹ w os.chdir()
+Å“cieÂ¿ke do folderu gdzie znajduje siÃª baza danych sqllite (predictions.db), (koÃ±cÃ³wka scieÂ¿ki: /data)
 
