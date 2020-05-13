@@ -1,0 +1,2881 @@
+,geo,time,value
+0,Bulgaria,2010-01-01,
+1,Bulgaria,2010-02-01,
+2,Bulgaria,2010-03-01,
+3,Bulgaria,2010-04-01,
+4,Bulgaria,2010-05-01,
+5,Bulgaria,2010-06-01,
+6,Bulgaria,2010-07-01,
+7,Bulgaria,2010-08-01,
+8,Bulgaria,2010-09-01,
+9,Bulgaria,2010-10-01,
+10,Bulgaria,2010-11-01,
+11,Bulgaria,2010-12-01,
+12,Bulgaria,2011-01-01,
+13,Bulgaria,2011-02-01,
+14,Bulgaria,2011-03-01,
+15,Bulgaria,2011-04-01,
+16,Bulgaria,2011-05-01,
+17,Bulgaria,2011-06-01,
+18,Bulgaria,2011-07-01,
+19,Bulgaria,2011-08-01,
+20,Bulgaria,2011-09-01,
+21,Bulgaria,2011-10-01,
+22,Bulgaria,2011-11-01,
+23,Bulgaria,2011-12-01,
+24,Bulgaria,2012-01-01,
+25,Bulgaria,2012-02-01,
+26,Bulgaria,2012-03-01,
+27,Bulgaria,2012-04-01,
+28,Bulgaria,2012-05-01,
+29,Bulgaria,2012-06-01,
+30,Bulgaria,2012-07-01,
+31,Bulgaria,2012-08-01,
+32,Bulgaria,2012-09-01,
+33,Bulgaria,2012-10-01,
+34,Bulgaria,2012-11-01,
+35,Bulgaria,2012-12-01,
+36,Bulgaria,2013-01-01,
+37,Bulgaria,2013-02-01,
+38,Bulgaria,2013-03-01,
+39,Bulgaria,2013-04-01,
+40,Bulgaria,2013-05-01,
+41,Bulgaria,2013-06-01,
+42,Bulgaria,2013-07-01,
+43,Bulgaria,2013-08-01,
+44,Bulgaria,2013-09-01,
+45,Bulgaria,2013-10-01,
+46,Bulgaria,2013-11-01,
+47,Bulgaria,2013-12-01,
+48,Bulgaria,2014-01-01,
+49,Bulgaria,2014-02-01,
+50,Bulgaria,2014-03-01,
+51,Bulgaria,2014-04-01,
+52,Bulgaria,2014-05-01,
+53,Bulgaria,2014-06-01,
+54,Bulgaria,2014-07-01,
+55,Bulgaria,2014-08-01,
+56,Bulgaria,2014-09-01,
+57,Bulgaria,2014-10-01,
+58,Bulgaria,2014-11-01,
+59,Bulgaria,2014-12-01,
+60,Bulgaria,2015-01-01,96.6
+61,Bulgaria,2015-02-01,96.7
+62,Bulgaria,2015-03-01,97.9
+63,Bulgaria,2015-04-01,98.0
+64,Bulgaria,2015-05-01,99.8
+65,Bulgaria,2015-06-01,100.0
+66,Bulgaria,2015-07-01,101.3
+67,Bulgaria,2015-08-01,99.0
+68,Bulgaria,2015-09-01,102.2
+69,Bulgaria,2015-10-01,103.2
+70,Bulgaria,2015-11-01,102.0
+71,Bulgaria,2015-12-01,101.2
+72,Bulgaria,2016-01-01,100.8
+73,Bulgaria,2016-02-01,102.8
+74,Bulgaria,2016-03-01,102.1
+75,Bulgaria,2016-04-01,105.6
+76,Bulgaria,2016-05-01,103.8
+77,Bulgaria,2016-06-01,122.5
+78,Bulgaria,2016-07-01,104.3
+79,Bulgaria,2016-08-01,109.9
+80,Bulgaria,2016-09-01,108.4
+81,Bulgaria,2016-10-01,108.8
+82,Bulgaria,2016-11-01,109.4
+83,Bulgaria,2016-12-01,111.1
+84,Bulgaria,2017-01-01,116.2
+85,Bulgaria,2017-02-01,115.6
+86,Bulgaria,2017-03-01,116.2
+87,Bulgaria,2017-04-01,115.6
+88,Bulgaria,2017-05-01,118.9
+89,Bulgaria,2017-06-01,118.7
+90,Bulgaria,2017-07-01,120.6
+91,Bulgaria,2017-08-01,120.4
+92,Bulgaria,2017-09-01,119.7
+93,Bulgaria,2017-10-01,121.8
+94,Bulgaria,2017-11-01,124.7
+95,Bulgaria,2017-12-01,125.5
+96,Bulgaria,2018-01-01,125.1
+97,Bulgaria,2018-02-01,126.1
+98,Bulgaria,2018-03-01,128.1
+99,Bulgaria,2018-04-01,128.1
+100,Bulgaria,2018-05-01,127.9
+101,Bulgaria,2018-06-01,129.4
+102,Bulgaria,2018-07-01,130.4
+103,Bulgaria,2018-08-01,129.8
+104,Bulgaria,2018-09-01,132.0
+105,Bulgaria,2018-10-01,131.4
+106,Bulgaria,2018-11-01,131.9
+107,Bulgaria,2018-12-01,132.8
+108,Bulgaria,2019-01-01,131.0
+109,Bulgaria,2019-02-01,131.8
+110,Bulgaria,2019-03-01,132.0
+111,Bulgaria,2019-04-01,132.2
+112,Bulgaria,2019-05-01,132.4
+113,Bulgaria,2019-06-01,132.7
+114,Bulgaria,2019-07-01,132.8
+115,Bulgaria,2019-08-01,133.5
+116,Bulgaria,2019-09-01,133.8
+117,Bulgaria,2019-10-01,134.2
+118,Bulgaria,2019-11-01,134.7
+119,Bulgaria,2019-12-01,135.2
+1200,Croatia,2010-01-01,89.6
+1201,Croatia,2010-02-01,86.8
+1202,Croatia,2010-03-01,88.5
+1203,Croatia,2010-04-01,82.1
+1204,Croatia,2010-05-01,86.2
+1205,Croatia,2010-06-01,84.1
+1206,Croatia,2010-07-01,99.8
+1207,Croatia,2010-08-01,89.8
+1208,Croatia,2010-09-01,92.1
+1209,Croatia,2010-10-01,94.5
+1210,Croatia,2010-11-01,99.0
+1211,Croatia,2010-12-01,94.5
+1212,Croatia,2011-01-01,98.2
+1213,Croatia,2011-02-01,99.2
+1214,Croatia,2011-03-01,96.4
+1215,Croatia,2011-04-01,100.2
+1216,Croatia,2011-05-01,95.1
+1217,Croatia,2011-06-01,82.7
+1218,Croatia,2011-07-01,91.5
+1219,Croatia,2011-08-01,96.4
+1220,Croatia,2011-09-01,94.8
+1221,Croatia,2011-10-01,97.1
+1222,Croatia,2011-11-01,95.5
+1223,Croatia,2011-12-01,85.7
+1224,Croatia,2012-01-01,100.8
+1225,Croatia,2012-02-01,110.5
+1226,Croatia,2012-03-01,73.2
+1227,Croatia,2012-04-01,72.3
+1228,Croatia,2012-05-01,73.7
+1229,Croatia,2012-06-01,75.3
+1230,Croatia,2012-07-01,78.6
+1231,Croatia,2012-08-01,78.2
+1232,Croatia,2012-09-01,81.6
+1233,Croatia,2012-10-01,82.4
+1234,Croatia,2012-11-01,80.3
+1235,Croatia,2012-12-01,85.2
+1236,Croatia,2013-01-01,78.0
+1237,Croatia,2013-02-01,85.2
+1238,Croatia,2013-03-01,81.4
+1239,Croatia,2013-04-01,85.0
+1240,Croatia,2013-05-01,86.4
+1241,Croatia,2013-06-01,89.1
+1242,Croatia,2013-07-01,87.3
+1243,Croatia,2013-08-01,87.8
+1244,Croatia,2013-09-01,88.0
+1245,Croatia,2013-10-01,86.9
+1246,Croatia,2013-11-01,92.8
+1247,Croatia,2013-12-01,89.4
+1248,Croatia,2014-01-01,84.0
+1249,Croatia,2014-02-01,93.7
+1250,Croatia,2014-03-01,96.1
+1251,Croatia,2014-04-01,100.9
+1252,Croatia,2014-05-01,89.4
+1253,Croatia,2014-06-01,73.5
+1254,Croatia,2014-07-01,86.6
+1255,Croatia,2014-08-01,94.5
+1256,Croatia,2014-09-01,93.1
+1257,Croatia,2014-10-01,100.0
+1258,Croatia,2014-11-01,93.4
+1259,Croatia,2014-12-01,96.5
+1260,Croatia,2015-01-01,100.5
+1261,Croatia,2015-02-01,100.1
+1262,Croatia,2015-03-01,95.3
+1263,Croatia,2015-04-01,87.1
+1264,Croatia,2015-05-01,97.7
+1265,Croatia,2015-06-01,99.1
+1266,Croatia,2015-07-01,98.8
+1267,Croatia,2015-08-01,103.1
+1268,Croatia,2015-09-01,104.3
+1269,Croatia,2015-10-01,103.2
+1270,Croatia,2015-11-01,107.2
+1271,Croatia,2015-12-01,111.1
+1272,Croatia,2016-01-01,110.8
+1273,Croatia,2016-02-01,104.8
+1274,Croatia,2016-03-01,108.9
+1275,Croatia,2016-04-01,114.5
+1276,Croatia,2016-05-01,111.6
+1277,Croatia,2016-06-01,113.5
+1278,Croatia,2016-07-01,118.2
+1279,Croatia,2016-08-01,114.0
+1280,Croatia,2016-09-01,118.1
+1281,Croatia,2016-10-01,116.0
+1282,Croatia,2016-11-01,121.6
+1283,Croatia,2016-12-01,146.5
+1284,Croatia,2017-01-01,112.4
+1285,Croatia,2017-02-01,125.6
+1286,Croatia,2017-03-01,130.9
+1287,Croatia,2017-04-01,126.2
+1288,Croatia,2017-05-01,127.7
+1289,Croatia,2017-06-01,124.1
+1290,Croatia,2017-07-01,125.8
+1291,Croatia,2017-08-01,126.1
+1292,Croatia,2017-09-01,129.7
+1293,Croatia,2017-10-01,135.4
+1294,Croatia,2017-11-01,135.5
+1295,Croatia,2017-12-01,137.7
+1296,Croatia,2018-01-01,144.0
+1297,Croatia,2018-02-01,148.9
+1298,Croatia,2018-03-01,152.6
+1299,Croatia,2018-04-01,148.0
+1300,Croatia,2018-05-01,152.9
+1301,Croatia,2018-06-01,158.1
+1302,Croatia,2018-07-01,149.2
+1303,Croatia,2018-08-01,148.7
+1304,Croatia,2018-09-01,143.5
+1305,Croatia,2018-10-01,151.5
+1306,Croatia,2018-11-01,154.4
+1307,Croatia,2018-12-01,145.1
+1308,Croatia,2019-01-01,154.8
+1309,Croatia,2019-02-01,157.4
+1310,Croatia,2019-03-01,156.6
+1311,Croatia,2019-04-01,171.6
+1312,Croatia,2019-05-01,165.5
+1313,Croatia,2019-06-01,167.6
+1314,Croatia,2019-07-01,172.8
+1315,Croatia,2019-08-01,169.1
+1316,Croatia,2019-09-01,169.0
+1317,Croatia,2019-10-01,164.0
+1318,Croatia,2019-11-01,168.6
+1319,Croatia,2019-12-01,171.8
+120,Czechia,2010-01-01,71.3
+121,Czechia,2010-02-01,72.9
+122,Czechia,2010-03-01,75.6
+123,Czechia,2010-04-01,72.5
+124,Czechia,2010-05-01,75.3
+125,Czechia,2010-06-01,81.6
+126,Czechia,2010-07-01,74.7
+127,Czechia,2010-08-01,76.1
+128,Czechia,2010-09-01,75.6
+129,Czechia,2010-10-01,75.4
+130,Czechia,2010-11-01,76.7
+131,Czechia,2010-12-01,73.1
+132,Czechia,2011-01-01,78.5
+133,Czechia,2011-02-01,78.4
+134,Czechia,2011-03-01,78.6
+135,Czechia,2011-04-01,77.2
+136,Czechia,2011-05-01,76.7
+137,Czechia,2011-06-01,74.1
+138,Czechia,2011-07-01,77.3
+139,Czechia,2011-08-01,77.5
+140,Czechia,2011-09-01,76.7
+141,Czechia,2011-10-01,79.9
+142,Czechia,2011-11-01,77.7
+143,Czechia,2011-12-01,76.7
+144,Czechia,2012-01-01,78.0
+145,Czechia,2012-02-01,78.8
+146,Czechia,2012-03-01,80.3
+147,Czechia,2012-04-01,74.5
+148,Czechia,2012-05-01,75.8
+149,Czechia,2012-06-01,76.0
+150,Czechia,2012-07-01,75.2
+151,Czechia,2012-08-01,74.6
+152,Czechia,2012-09-01,75.6
+153,Czechia,2012-10-01,73.6
+154,Czechia,2012-11-01,70.9
+155,Czechia,2012-12-01,73.8
+156,Czechia,2013-01-01,72.0
+157,Czechia,2013-02-01,71.7
+158,Czechia,2013-03-01,73.3
+159,Czechia,2013-04-01,76.5
+160,Czechia,2013-05-01,78.7
+161,Czechia,2013-06-01,77.2
+162,Czechia,2013-07-01,78.2
+163,Czechia,2013-08-01,79.2
+164,Czechia,2013-09-01,77.9
+165,Czechia,2013-10-01,76.9
+166,Czechia,2013-11-01,82.5
+167,Czechia,2013-12-01,84.7
+168,Czechia,2014-01-01,84.2
+169,Czechia,2014-02-01,84.8
+170,Czechia,2014-03-01,84.0
+171,Czechia,2014-04-01,85.6
+172,Czechia,2014-05-01,81.8
+173,Czechia,2014-06-01,85.5
+174,Czechia,2014-07-01,89.8
+175,Czechia,2014-08-01,90.0
+176,Czechia,2014-09-01,90.0
+177,Czechia,2014-10-01,92.4
+178,Czechia,2014-11-01,93.3
+179,Czechia,2014-12-01,90.9
+180,Czechia,2015-01-01,95.1
+181,Czechia,2015-02-01,94.4
+182,Czechia,2015-03-01,96.2
+183,Czechia,2015-04-01,93.8
+184,Czechia,2015-05-01,97.9
+185,Czechia,2015-06-01,100.8
+186,Czechia,2015-07-01,101.1
+187,Czechia,2015-08-01,98.4
+188,Czechia,2015-09-01,105.4
+189,Czechia,2015-10-01,108.2
+190,Czechia,2015-11-01,104.6
+191,Czechia,2015-12-01,104.0
+192,Czechia,2016-01-01,105.4
+193,Czechia,2016-02-01,107.8
+194,Czechia,2016-03-01,105.5
+195,Czechia,2016-04-01,108.3
+196,Czechia,2016-05-01,107.2
+197,Czechia,2016-06-01,109.2
+198,Czechia,2016-07-01,108.6
+199,Czechia,2016-08-01,111.5
+200,Czechia,2016-09-01,111.6
+201,Czechia,2016-10-01,110.8
+202,Czechia,2016-11-01,113.9
+203,Czechia,2016-12-01,112.0
+204,Czechia,2017-01-01,113.6
+205,Czechia,2017-02-01,114.9
+206,Czechia,2017-03-01,116.4
+207,Czechia,2017-04-01,115.7
+208,Czechia,2017-05-01,117.1
+209,Czechia,2017-06-01,112.5
+210,Czechia,2017-07-01,108.7
+211,Czechia,2017-08-01,114.9
+212,Czechia,2017-09-01,117.2
+213,Czechia,2017-10-01,116.4
+214,Czechia,2017-11-01,116.4
+215,Czechia,2017-12-01,118.2
+216,Czechia,2018-01-01,120.1
+217,Czechia,2018-02-01,114.5
+218,Czechia,2018-03-01,114.6
+219,Czechia,2018-04-01,115.1
+220,Czechia,2018-05-01,114.6
+221,Czechia,2018-06-01,119.1
+222,Czechia,2018-07-01,119.3
+223,Czechia,2018-08-01,115.8
+224,Czechia,2018-09-01,112.1
+225,Czechia,2018-10-01,112.2
+226,Czechia,2018-11-01,112.8
+227,Czechia,2018-12-01,115.4
+228,Czechia,2019-01-01,118.2
+229,Czechia,2019-02-01,119.3
+230,Czechia,2019-03-01,118.4
+231,Czechia,2019-04-01,120.0
+232,Czechia,2019-05-01,120.2
+233,Czechia,2019-06-01,117.1
+234,Czechia,2019-07-01,118.3
+235,Czechia,2019-08-01,118.4
+236,Czechia,2019-09-01,119.7
+237,Czechia,2019-10-01,119.2
+238,Czechia,2019-11-01,120.2
+239,Czechia,2019-12-01,117.8
+360,Denmark,2010-01-01,72.3
+361,Denmark,2010-02-01,68.8
+362,Denmark,2010-03-01,74.7
+363,Denmark,2010-04-01,73.9
+364,Denmark,2010-05-01,73.6
+365,Denmark,2010-06-01,74.9
+366,Denmark,2010-07-01,77.0
+367,Denmark,2010-08-01,78.0
+368,Denmark,2010-09-01,80.1
+369,Denmark,2010-10-01,81.1
+370,Denmark,2010-11-01,83.9
+371,Denmark,2010-12-01,83.3
+372,Denmark,2011-01-01,83.4
+373,Denmark,2011-02-01,85.3
+374,Denmark,2011-03-01,85.9
+375,Denmark,2011-04-01,86.4
+376,Denmark,2011-05-01,89.6
+377,Denmark,2011-06-01,83.7
+378,Denmark,2011-07-01,85.2
+379,Denmark,2011-08-01,83.7
+380,Denmark,2011-09-01,85.8
+381,Denmark,2011-10-01,85.7
+382,Denmark,2011-11-01,89.3
+383,Denmark,2011-12-01,87.0
+384,Denmark,2012-01-01,80.9
+385,Denmark,2012-02-01,84.7
+386,Denmark,2012-03-01,82.4
+387,Denmark,2012-04-01,81.2
+388,Denmark,2012-05-01,84.0
+389,Denmark,2012-06-01,80.5
+390,Denmark,2012-07-01,85.3
+391,Denmark,2012-08-01,82.6
+392,Denmark,2012-09-01,80.1
+393,Denmark,2012-10-01,85.2
+394,Denmark,2012-11-01,81.2
+395,Denmark,2012-12-01,81.6
+396,Denmark,2013-01-01,81.4
+397,Denmark,2013-02-01,80.8
+398,Denmark,2013-03-01,80.2
+399,Denmark,2013-04-01,83.2
+400,Denmark,2013-05-01,84.5
+401,Denmark,2013-06-01,86.3
+402,Denmark,2013-07-01,83.2
+403,Denmark,2013-08-01,85.9
+404,Denmark,2013-09-01,86.1
+405,Denmark,2013-10-01,87.7
+406,Denmark,2013-11-01,86.3
+407,Denmark,2013-12-01,84.9
+408,Denmark,2014-01-01,88.3
+409,Denmark,2014-02-01,87.7
+410,Denmark,2014-03-01,88.5
+411,Denmark,2014-04-01,90.4
+412,Denmark,2014-05-01,86.0
+413,Denmark,2014-06-01,89.7
+414,Denmark,2014-07-01,90.1
+415,Denmark,2014-08-01,91.0
+416,Denmark,2014-09-01,93.7
+417,Denmark,2014-10-01,90.7
+418,Denmark,2014-11-01,92.8
+419,Denmark,2014-12-01,96.0
+420,Denmark,2015-01-01,94.5
+421,Denmark,2015-02-01,94.1
+422,Denmark,2015-03-01,98.6
+423,Denmark,2015-04-01,98.8
+424,Denmark,2015-05-01,96.1
+425,Denmark,2015-06-01,98.8
+426,Denmark,2015-07-01,101.1
+427,Denmark,2015-08-01,101.9
+428,Denmark,2015-09-01,101.9
+429,Denmark,2015-10-01,102.9
+430,Denmark,2015-11-01,104.6
+431,Denmark,2015-12-01,106.6
+432,Denmark,2016-01-01,104.7
+433,Denmark,2016-02-01,107.0
+434,Denmark,2016-03-01,104.7
+435,Denmark,2016-04-01,107.7
+436,Denmark,2016-05-01,110.2
+437,Denmark,2016-06-01,109.0
+438,Denmark,2016-07-01,104.3
+439,Denmark,2016-08-01,106.5
+440,Denmark,2016-09-01,111.4
+441,Denmark,2016-10-01,108.2
+442,Denmark,2016-11-01,112.3
+443,Denmark,2016-12-01,107.5
+444,Denmark,2017-01-01,111.9
+445,Denmark,2017-02-01,112.4
+446,Denmark,2017-03-01,113.2
+447,Denmark,2017-04-01,112.9
+448,Denmark,2017-05-01,115.3
+449,Denmark,2017-06-01,112.5
+450,Denmark,2017-07-01,112.4
+451,Denmark,2017-08-01,115.1
+452,Denmark,2017-09-01,110.8
+453,Denmark,2017-10-01,115.2
+454,Denmark,2017-11-01,116.0
+455,Denmark,2017-12-01,120.7
+456,Denmark,2018-01-01,120.8
+457,Denmark,2018-02-01,117.7
+458,Denmark,2018-03-01,116.3
+459,Denmark,2018-04-01,119.0
+460,Denmark,2018-05-01,123.8
+461,Denmark,2018-06-01,122.8
+462,Denmark,2018-07-01,121.9
+463,Denmark,2018-08-01,122.6
+464,Denmark,2018-09-01,116.5
+465,Denmark,2018-10-01,125.7
+466,Denmark,2018-11-01,119.4
+467,Denmark,2018-12-01,119.7
+468,Denmark,2019-01-01,127.5
+469,Denmark,2019-02-01,127.7
+470,Denmark,2019-03-01,129.4
+471,Denmark,2019-04-01,121.8
+472,Denmark,2019-05-01,121.3
+473,Denmark,2019-06-01,127.1
+474,Denmark,2019-07-01,130.9
+475,Denmark,2019-08-01,128.8
+476,Denmark,2019-09-01,133.4
+477,Denmark,2019-10-01,127.5
+478,Denmark,2019-11-01,135.1
+479,Denmark,2019-12-01,129.2
+480,Euro area - 19 countries  (from 2015),2010-01-01,88.7
+481,Euro area - 19 countries  (from 2015),2010-02-01,88.4
+482,Euro area - 19 countries  (from 2015),2010-03-01,91.3
+483,Euro area - 19 countries  (from 2015),2010-04-01,92.1
+484,Euro area - 19 countries  (from 2015),2010-05-01,92.6
+485,Euro area - 19 countries  (from 2015),2010-06-01,95.9
+486,Euro area - 19 countries  (from 2015),2010-07-01,89.3
+487,Euro area - 19 countries  (from 2015),2010-08-01,90.9
+488,Euro area - 19 countries  (from 2015),2010-09-01,91.7
+489,Euro area - 19 countries  (from 2015),2010-10-01,92.1
+490,Euro area - 19 countries  (from 2015),2010-11-01,94.0
+491,Euro area - 19 countries  (from 2015),2010-12-01,94.0
+492,Euro area - 19 countries  (from 2015),2011-01-01,95.3
+493,Euro area - 19 countries  (from 2015),2011-02-01,96.3
+494,Euro area - 19 countries  (from 2015),2011-03-01,95.2
+495,Euro area - 19 countries  (from 2015),2011-04-01,94.7
+496,Euro area - 19 countries  (from 2015),2011-05-01,94.3
+497,Euro area - 19 countries  (from 2015),2011-06-01,93.4
+498,Euro area - 19 countries  (from 2015),2011-07-01,94.3
+499,Euro area - 19 countries  (from 2015),2011-08-01,93.5
+500,Euro area - 19 countries  (from 2015),2011-09-01,94.4
+501,Euro area - 19 countries  (from 2015),2011-10-01,95.3
+502,Euro area - 19 countries  (from 2015),2011-11-01,95.8
+503,Euro area - 19 countries  (from 2015),2011-12-01,94.5
+504,Euro area - 19 countries  (from 2015),2012-01-01,93.5
+505,Euro area - 19 countries  (from 2015),2012-02-01,92.9
+506,Euro area - 19 countries  (from 2015),2012-03-01,95.7
+507,Euro area - 19 countries  (from 2015),2012-04-01,90.6
+508,Euro area - 19 countries  (from 2015),2012-05-01,91.0
+509,Euro area - 19 countries  (from 2015),2012-06-01,90.4
+510,Euro area - 19 countries  (from 2015),2012-07-01,89.9
+511,Euro area - 19 countries  (from 2015),2012-08-01,91.1
+512,Euro area - 19 countries  (from 2015),2012-09-01,88.2
+513,Euro area - 19 countries  (from 2015),2012-10-01,88.7
+514,Euro area - 19 countries  (from 2015),2012-11-01,88.0
+515,Euro area - 19 countries  (from 2015),2012-12-01,88.4
+516,Euro area - 19 countries  (from 2015),2013-01-01,86.5
+517,Euro area - 19 countries  (from 2015),2013-02-01,86.8
+518,Euro area - 19 countries  (from 2015),2013-03-01,86.8
+519,Euro area - 19 countries  (from 2015),2013-04-01,88.6
+520,Euro area - 19 countries  (from 2015),2013-05-01,89.3
+521,Euro area - 19 countries  (from 2015),2013-06-01,89.0
+522,Euro area - 19 countries  (from 2015),2013-07-01,88.3
+523,Euro area - 19 countries  (from 2015),2013-08-01,90.0
+524,Euro area - 19 countries  (from 2015),2013-09-01,90.2
+525,Euro area - 19 countries  (from 2015),2013-10-01,91.4
+526,Euro area - 19 countries  (from 2015),2013-11-01,91.6
+527,Euro area - 19 countries  (from 2015),2013-12-01,92.6
+528,Euro area - 19 countries  (from 2015),2014-01-01,91.4
+529,Euro area - 19 countries  (from 2015),2014-02-01,91.3
+530,Euro area - 19 countries  (from 2015),2014-03-01,91.1
+531,Euro area - 19 countries  (from 2015),2014-04-01,91.5
+532,Euro area - 19 countries  (from 2015),2014-05-01,90.9
+533,Euro area - 19 countries  (from 2015),2014-06-01,91.6
+534,Euro area - 19 countries  (from 2015),2014-07-01,92.3
+535,Euro area - 19 countries  (from 2015),2014-08-01,93.6
+536,Euro area - 19 countries  (from 2015),2014-09-01,93.1
+537,Euro area - 19 countries  (from 2015),2014-10-01,94.4
+538,Euro area - 19 countries  (from 2015),2014-11-01,93.8
+539,Euro area - 19 countries  (from 2015),2014-12-01,96.4
+540,Euro area - 19 countries  (from 2015),2015-01-01,96.2
+541,Euro area - 19 countries  (from 2015),2015-02-01,97.1
+542,Euro area - 19 countries  (from 2015),2015-03-01,99.3
+543,Euro area - 19 countries  (from 2015),2015-04-01,98.8
+544,Euro area - 19 countries  (from 2015),2015-05-01,99.4
+545,Euro area - 19 countries  (from 2015),2015-06-01,100.1
+546,Euro area - 19 countries  (from 2015),2015-07-01,101.5
+547,Euro area - 19 countries  (from 2015),2015-08-01,100.1
+548,Euro area - 19 countries  (from 2015),2015-09-01,101.3
+549,Euro area - 19 countries  (from 2015),2015-10-01,101.6
+550,Euro area - 19 countries  (from 2015),2015-11-01,102.6
+551,Euro area - 19 countries  (from 2015),2015-12-01,102.0
+552,Euro area - 19 countries  (from 2015),2016-01-01,106.5
+553,Euro area - 19 countries  (from 2015),2016-02-01,106.3
+554,Euro area - 19 countries  (from 2015),2016-03-01,105.5
+555,Euro area - 19 countries  (from 2015),2016-04-01,107.0
+556,Euro area - 19 countries  (from 2015),2016-05-01,106.3
+557,Euro area - 19 countries  (from 2015),2016-06-01,106.3
+558,Euro area - 19 countries  (from 2015),2016-07-01,105.6
+559,Euro area - 19 countries  (from 2015),2016-08-01,108.8
+560,Euro area - 19 countries  (from 2015),2016-09-01,110.1
+561,Euro area - 19 countries  (from 2015),2016-10-01,109.2
+562,Euro area - 19 countries  (from 2015),2016-11-01,110.9
+563,Euro area - 19 countries  (from 2015),2016-12-01,111.3
+564,Euro area - 19 countries  (from 2015),2017-01-01,110.5
+565,Euro area - 19 countries  (from 2015),2017-02-01,112.7
+566,Euro area - 19 countries  (from 2015),2017-03-01,114.0
+567,Euro area - 19 countries  (from 2015),2017-04-01,112.2
+568,Euro area - 19 countries  (from 2015),2017-05-01,114.7
+569,Euro area - 19 countries  (from 2015),2017-06-01,115.5
+570,Euro area - 19 countries  (from 2015),2017-07-01,115.0
+571,Euro area - 19 countries  (from 2015),2017-08-01,116.4
+572,Euro area - 19 countries  (from 2015),2017-09-01,117.7
+573,Euro area - 19 countries  (from 2015),2017-10-01,118.1
+574,Euro area - 19 countries  (from 2015),2017-11-01,120.1
+575,Euro area - 19 countries  (from 2015),2017-12-01,122.5
+576,Euro area - 19 countries  (from 2015),2018-01-01,119.6
+577,Euro area - 19 countries  (from 2015),2018-02-01,119.6
+578,Euro area - 19 countries  (from 2015),2018-03-01,119.3
+579,Euro area - 19 countries  (from 2015),2018-04-01,120.5
+580,Euro area - 19 countries  (from 2015),2018-05-01,122.0
+581,Euro area - 19 countries  (from 2015),2018-06-01,122.2
+582,Euro area - 19 countries  (from 2015),2018-07-01,122.3
+583,Euro area - 19 countries  (from 2015),2018-08-01,125.6
+584,Euro area - 19 countries  (from 2015),2018-09-01,119.4
+585,Euro area - 19 countries  (from 2015),2018-10-01,120.8
+586,Euro area - 19 countries  (from 2015),2018-11-01,121.3
+587,Euro area - 19 countries  (from 2015),2018-12-01,121.1
+588,Euro area - 19 countries  (from 2015),2019-01-01,123.4
+589,Euro area - 19 countries  (from 2015),2019-02-01,125.2
+590,Euro area - 19 countries  (from 2015),2019-03-01,124.5
+591,Euro area - 19 countries  (from 2015),2019-04-01,124.5
+592,Euro area - 19 countries  (from 2015),2019-05-01,125.2
+593,Euro area - 19 countries  (from 2015),2019-06-01,125.6
+594,Euro area - 19 countries  (from 2015),2019-07-01,126.3
+595,Euro area - 19 countries  (from 2015),2019-08-01,127.3
+596,Euro area - 19 countries  (from 2015),2019-09-01,127.5
+597,Euro area - 19 countries  (from 2015),2019-10-01,127.7
+598,Euro area - 19 countries  (from 2015),2019-11-01,127.5
+599,Euro area - 19 countries  (from 2015),2019-12-01,130.3
+720,European Union - 27 countries (from 2020),2010-01-01,86.1
+721,European Union - 27 countries (from 2020),2010-02-01,85.9
+722,European Union - 27 countries (from 2020),2010-03-01,89.1
+723,European Union - 27 countries (from 2020),2010-04-01,89.7
+724,European Union - 27 countries (from 2020),2010-05-01,90.2
+725,European Union - 27 countries (from 2020),2010-06-01,93.6
+726,European Union - 27 countries (from 2020),2010-07-01,87.7
+727,European Union - 27 countries (from 2020),2010-08-01,89.1
+728,European Union - 27 countries (from 2020),2010-09-01,90.0
+729,European Union - 27 countries (from 2020),2010-10-01,90.6
+730,European Union - 27 countries (from 2020),2010-11-01,92.3
+731,European Union - 27 countries (from 2020),2010-12-01,92.2
+732,European Union - 27 countries (from 2020),2011-01-01,93.7
+733,European Union - 27 countries (from 2020),2011-02-01,94.6
+734,European Union - 27 countries (from 2020),2011-03-01,93.6
+735,European Union - 27 countries (from 2020),2011-04-01,93.4
+736,European Union - 27 countries (from 2020),2011-05-01,93.3
+737,European Union - 27 countries (from 2020),2011-06-01,91.5
+738,European Union - 27 countries (from 2020),2011-07-01,93.0
+739,European Union - 27 countries (from 2020),2011-08-01,92.1
+740,European Union - 27 countries (from 2020),2011-09-01,93.0
+741,European Union - 27 countries (from 2020),2011-10-01,93.9
+742,European Union - 27 countries (from 2020),2011-11-01,94.4
+743,European Union - 27 countries (from 2020),2011-12-01,93.0
+744,European Union - 27 countries (from 2020),2012-01-01,91.9
+745,European Union - 27 countries (from 2020),2012-02-01,91.6
+746,European Union - 27 countries (from 2020),2012-03-01,93.8
+747,European Union - 27 countries (from 2020),2012-04-01,89.0
+748,European Union - 27 countries (from 2020),2012-05-01,89.7
+749,European Union - 27 countries (from 2020),2012-06-01,88.9
+750,European Union - 27 countries (from 2020),2012-07-01,88.4
+751,European Union - 27 countries (from 2020),2012-08-01,89.7
+752,European Union - 27 countries (from 2020),2012-09-01,87.2
+753,European Union - 27 countries (from 2020),2012-10-01,87.6
+754,European Union - 27 countries (from 2020),2012-11-01,86.8
+755,European Union - 27 countries (from 2020),2012-12-01,87.2
+756,European Union - 27 countries (from 2020),2013-01-01,85.6
+757,European Union - 27 countries (from 2020),2013-02-01,85.7
+758,European Union - 27 countries (from 2020),2013-03-01,85.8
+759,European Union - 27 countries (from 2020),2013-04-01,87.4
+760,European Union - 27 countries (from 2020),2013-05-01,88.0
+761,European Union - 27 countries (from 2020),2013-06-01,87.8
+762,European Union - 27 countries (from 2020),2013-07-01,87.3
+763,European Union - 27 countries (from 2020),2013-08-01,89.2
+764,European Union - 27 countries (from 2020),2013-09-01,89.3
+765,European Union - 27 countries (from 2020),2013-10-01,90.5
+766,European Union - 27 countries (from 2020),2013-11-01,90.8
+767,European Union - 27 countries (from 2020),2013-12-01,91.8
+768,European Union - 27 countries (from 2020),2014-01-01,90.6
+769,European Union - 27 countries (from 2020),2014-02-01,90.7
+770,European Union - 27 countries (from 2020),2014-03-01,90.5
+771,European Union - 27 countries (from 2020),2014-04-01,91.2
+772,European Union - 27 countries (from 2020),2014-05-01,90.3
+773,European Union - 27 countries (from 2020),2014-06-01,91.0
+774,European Union - 27 countries (from 2020),2014-07-01,91.8
+775,European Union - 27 countries (from 2020),2014-08-01,93.1
+776,European Union - 27 countries (from 2020),2014-09-01,92.7
+777,European Union - 27 countries (from 2020),2014-10-01,94.0
+778,European Union - 27 countries (from 2020),2014-11-01,93.7
+779,European Union - 27 countries (from 2020),2014-12-01,95.8
+780,European Union - 27 countries (from 2020),2015-01-01,96.0
+781,European Union - 27 countries (from 2020),2015-02-01,96.8
+782,European Union - 27 countries (from 2020),2015-03-01,98.9
+783,European Union - 27 countries (from 2020),2015-04-01,98.3
+784,European Union - 27 countries (from 2020),2015-05-01,99.1
+785,European Union - 27 countries (from 2020),2015-06-01,100.0
+786,European Union - 27 countries (from 2020),2015-07-01,101.4
+787,European Union - 27 countries (from 2020),2015-08-01,100.2
+788,European Union - 27 countries (from 2020),2015-09-01,101.6
+789,European Union - 27 countries (from 2020),2015-10-01,102.0
+790,European Union - 27 countries (from 2020),2015-11-01,103.1
+791,European Union - 27 countries (from 2020),2015-12-01,102.5
+792,European Union - 27 countries (from 2020),2016-01-01,106.4
+793,European Union - 27 countries (from 2020),2016-02-01,107.0
+794,European Union - 27 countries (from 2020),2016-03-01,105.7
+795,European Union - 27 countries (from 2020),2016-04-01,107.7
+796,European Union - 27 countries (from 2020),2016-05-01,107.1
+797,European Union - 27 countries (from 2020),2016-06-01,107.1
+798,European Union - 27 countries (from 2020),2016-07-01,106.3
+799,European Union - 27 countries (from 2020),2016-08-01,108.9
+800,European Union - 27 countries (from 2020),2016-09-01,110.7
+801,European Union - 27 countries (from 2020),2016-10-01,109.7
+802,European Union - 27 countries (from 2020),2016-11-01,111.5
+803,European Union - 27 countries (from 2020),2016-12-01,112.2
+804,European Union - 27 countries (from 2020),2017-01-01,111.5
+805,European Union - 27 countries (from 2020),2017-02-01,113.4
+806,European Union - 27 countries (from 2020),2017-03-01,114.8
+807,European Union - 27 countries (from 2020),2017-04-01,112.8
+808,European Union - 27 countries (from 2020),2017-05-01,115.3
+809,European Union - 27 countries (from 2020),2017-06-01,115.8
+810,European Union - 27 countries (from 2020),2017-07-01,115.5
+811,European Union - 27 countries (from 2020),2017-08-01,116.8
+812,European Union - 27 countries (from 2020),2017-09-01,118.1
+813,European Union - 27 countries (from 2020),2017-10-01,118.2
+814,European Union - 27 countries (from 2020),2017-11-01,120.0
+815,European Union - 27 countries (from 2020),2017-12-01,122.3
+816,European Union - 27 countries (from 2020),2018-01-01,120.4
+817,European Union - 27 countries (from 2020),2018-02-01,120.1
+818,European Union - 27 countries (from 2020),2018-03-01,120.0
+819,European Union - 27 countries (from 2020),2018-04-01,121.5
+820,European Union - 27 countries (from 2020),2018-05-01,123.3
+821,European Union - 27 countries (from 2020),2018-06-01,124.4
+822,European Union - 27 countries (from 2020),2018-07-01,121.7
+823,European Union - 27 countries (from 2020),2018-08-01,124.7
+824,European Union - 27 countries (from 2020),2018-09-01,118.9
+825,European Union - 27 countries (from 2020),2018-10-01,120.6
+826,European Union - 27 countries (from 2020),2018-11-01,121.2
+827,European Union - 27 countries (from 2020),2018-12-01,120.6
+828,European Union - 27 countries (from 2020),2019-01-01,123.4
+829,European Union - 27 countries (from 2020),2019-02-01,125.2
+830,European Union - 27 countries (from 2020),2019-03-01,124.8
+831,European Union - 27 countries (from 2020),2019-04-01,124.9
+832,European Union - 27 countries (from 2020),2019-05-01,125.3
+833,European Union - 27 countries (from 2020),2019-06-01,125.7
+834,European Union - 27 countries (from 2020),2019-07-01,126.6
+835,European Union - 27 countries (from 2020),2019-08-01,127.4
+836,European Union - 27 countries (from 2020),2019-09-01,128.0
+837,European Union - 27 countries (from 2020),2019-10-01,128.2
+838,European Union - 27 countries (from 2020),2019-11-01,128.4
+839,European Union - 27 countries (from 2020),2019-12-01,131.2
+840,European Union - 28 countries (2013-2020),2010-01-01,82.3
+841,European Union - 28 countries (2013-2020),2010-02-01,82.5
+842,European Union - 28 countries (2013-2020),2010-03-01,84.5
+843,European Union - 28 countries (2013-2020),2010-04-01,85.4
+844,European Union - 28 countries (2013-2020),2010-05-01,85.7
+845,European Union - 28 countries (2013-2020),2010-06-01,88.0
+846,European Union - 28 countries (2013-2020),2010-07-01,83.6
+847,European Union - 28 countries (2013-2020),2010-08-01,84.5
+848,European Union - 28 countries (2013-2020),2010-09-01,84.9
+849,European Union - 28 countries (2013-2020),2010-10-01,85.6
+850,European Union - 28 countries (2013-2020),2010-11-01,87.4
+851,European Union - 28 countries (2013-2020),2010-12-01,87.4
+852,European Union - 28 countries (2013-2020),2011-01-01,87.9
+853,European Union - 28 countries (2013-2020),2011-02-01,88.5
+854,European Union - 28 countries (2013-2020),2011-03-01,87.8
+855,European Union - 28 countries (2013-2020),2011-04-01,87.9
+856,European Union - 28 countries (2013-2020),2011-05-01,88.8
+857,European Union - 28 countries (2013-2020),2011-06-01,86.5
+858,European Union - 28 countries (2013-2020),2011-07-01,87.4
+859,European Union - 28 countries (2013-2020),2011-08-01,86.9
+860,European Union - 28 countries (2013-2020),2011-09-01,87.4
+861,European Union - 28 countries (2013-2020),2011-10-01,88.3
+862,European Union - 28 countries (2013-2020),2011-11-01,87.9
+863,European Union - 28 countries (2013-2020),2011-12-01,86.0
+864,European Union - 28 countries (2013-2020),2012-01-01,86.9
+865,European Union - 28 countries (2013-2020),2012-02-01,85.9
+866,European Union - 28 countries (2013-2020),2012-03-01,88.5
+867,European Union - 28 countries (2013-2020),2012-04-01,84.4
+868,European Union - 28 countries (2013-2020),2012-05-01,85.2
+869,European Union - 28 countries (2013-2020),2012-06-01,84.2
+870,European Union - 28 countries (2013-2020),2012-07-01,85.4
+871,European Union - 28 countries (2013-2020),2012-08-01,85.5
+872,European Union - 28 countries (2013-2020),2012-09-01,85.2
+873,European Union - 28 countries (2013-2020),2012-10-01,85.0
+874,European Union - 28 countries (2013-2020),2012-11-01,84.4
+875,European Union - 28 countries (2013-2020),2012-12-01,84.6
+876,European Union - 28 countries (2013-2020),2013-01-01,83.9
+877,European Union - 28 countries (2013-2020),2013-02-01,85.0
+878,European Union - 28 countries (2013-2020),2013-03-01,84.7
+879,European Union - 28 countries (2013-2020),2013-04-01,85.9
+880,European Union - 28 countries (2013-2020),2013-05-01,86.6
+881,European Union - 28 countries (2013-2020),2013-06-01,86.9
+882,European Union - 28 countries (2013-2020),2013-07-01,86.4
+883,European Union - 28 countries (2013-2020),2013-08-01,88.2
+884,European Union - 28 countries (2013-2020),2013-09-01,88.6
+885,European Union - 28 countries (2013-2020),2013-10-01,89.5
+886,European Union - 28 countries (2013-2020),2013-11-01,90.3
+887,European Union - 28 countries (2013-2020),2013-12-01,91.7
+888,European Union - 28 countries (2013-2020),2014-01-01,90.4
+889,European Union - 28 countries (2013-2020),2014-02-01,90.2
+890,European Union - 28 countries (2013-2020),2014-03-01,91.0
+891,European Union - 28 countries (2013-2020),2014-04-01,91.4
+892,European Union - 28 countries (2013-2020),2014-05-01,90.4
+893,European Union - 28 countries (2013-2020),2014-06-01,91.4
+894,European Union - 28 countries (2013-2020),2014-07-01,91.9
+895,European Union - 28 countries (2013-2020),2014-08-01,93.5
+896,European Union - 28 countries (2013-2020),2014-09-01,92.8
+897,European Union - 28 countries (2013-2020),2014-10-01,93.8
+898,European Union - 28 countries (2013-2020),2014-11-01,94.0
+899,European Union - 28 countries (2013-2020),2014-12-01,95.3
+900,European Union - 28 countries (2013-2020),2015-01-01,95.4
+901,European Union - 28 countries (2013-2020),2015-02-01,96.5
+902,European Union - 28 countries (2013-2020),2015-03-01,98.4
+903,European Union - 28 countries (2013-2020),2015-04-01,98.6
+904,European Union - 28 countries (2013-2020),2015-05-01,99.3
+905,European Union - 28 countries (2013-2020),2015-06-01,100.4
+906,European Union - 28 countries (2013-2020),2015-07-01,101.4
+907,European Union - 28 countries (2013-2020),2015-08-01,100.2
+908,European Union - 28 countries (2013-2020),2015-09-01,101.5
+909,European Union - 28 countries (2013-2020),2015-10-01,101.8
+910,European Union - 28 countries (2013-2020),2015-11-01,103.4
+911,European Union - 28 countries (2013-2020),2015-12-01,103.0
+912,European Union - 28 countries (2013-2020),2016-01-01,106.1
+913,European Union - 28 countries (2013-2020),2016-02-01,106.3
+914,European Union - 28 countries (2013-2020),2016-03-01,106.5
+915,European Union - 28 countries (2013-2020),2016-04-01,107.6
+916,European Union - 28 countries (2013-2020),2016-05-01,106.6
+917,European Union - 28 countries (2013-2020),2016-06-01,107.0
+918,European Union - 28 countries (2013-2020),2016-07-01,106.0
+919,European Union - 28 countries (2013-2020),2016-08-01,108.0
+920,European Union - 28 countries (2013-2020),2016-09-01,111.0
+921,European Union - 28 countries (2013-2020),2016-10-01,110.0
+922,European Union - 28 countries (2013-2020),2016-11-01,110.7
+923,European Union - 28 countries (2013-2020),2016-12-01,112.2
+924,European Union - 28 countries (2013-2020),2017-01-01,110.3
+925,European Union - 28 countries (2013-2020),2017-02-01,112.0
+926,European Union - 28 countries (2013-2020),2017-03-01,113.9
+927,European Union - 28 countries (2013-2020),2017-04-01,111.5
+928,European Union - 28 countries (2013-2020),2017-05-01,113.3
+929,European Union - 28 countries (2013-2020),2017-06-01,114.7
+930,European Union - 28 countries (2013-2020),2017-07-01,114.7
+931,European Union - 28 countries (2013-2020),2017-08-01,115.6
+932,European Union - 28 countries (2013-2020),2017-09-01,117.5
+933,European Union - 28 countries (2013-2020),2017-10-01,116.4
+934,European Union - 28 countries (2013-2020),2017-11-01,118.1
+935,European Union - 28 countries (2013-2020),2017-12-01,119.3
+936,European Union - 28 countries (2013-2020),2018-01-01,118.6
+937,European Union - 28 countries (2013-2020),2018-02-01,118.4
+938,European Union - 28 countries (2013-2020),2018-03-01,118.2
+939,European Union - 28 countries (2013-2020),2018-04-01,119.2
+940,European Union - 28 countries (2013-2020),2018-05-01,121.8
+941,European Union - 28 countries (2013-2020),2018-06-01,122.4
+942,European Union - 28 countries (2013-2020),2018-07-01,120.0
+943,European Union - 28 countries (2013-2020),2018-08-01,122.7
+944,European Union - 28 countries (2013-2020),2018-09-01,116.9
+945,European Union - 28 countries (2013-2020),2018-10-01,119.4
+946,European Union - 28 countries (2013-2020),2018-11-01,120.1
+947,European Union - 28 countries (2013-2020),2018-12-01,119.3
+948,European Union - 28 countries (2013-2020),2019-01-01,122.7
+949,European Union - 28 countries (2013-2020),2019-02-01,124.2
+950,European Union - 28 countries (2013-2020),2019-03-01,123.2
+951,European Union - 28 countries (2013-2020),2019-04-01,123.0
+952,European Union - 28 countries (2013-2020),2019-05-01,123.6
+953,European Union - 28 countries (2013-2020),2019-06-01,123.6
+954,European Union - 28 countries (2013-2020),2019-07-01,124.5
+955,European Union - 28 countries (2013-2020),2019-08-01,125.9
+956,European Union - 28 countries (2013-2020),2019-09-01,125.0
+957,European Union - 28 countries (2013-2020),2019-10-01,126.0
+958,European Union - 28 countries (2013-2020),2019-11-01,125.9
+959,European Union - 28 countries (2013-2020),2019-12-01,129.1
+960,Finland,2010-01-01,90.2
+961,Finland,2010-02-01,85.4
+962,Finland,2010-03-01,89.0
+963,Finland,2010-04-01,98.5
+964,Finland,2010-05-01,104.0
+965,Finland,2010-06-01,110.2
+966,Finland,2010-07-01,99.6
+967,Finland,2010-08-01,110.8
+968,Finland,2010-09-01,110.2
+969,Finland,2010-10-01,110.5
+970,Finland,2010-11-01,112.4
+971,Finland,2010-12-01,110.5
+972,Finland,2011-01-01,107.7
+973,Finland,2011-02-01,119.8
+974,Finland,2011-03-01,117.8
+975,Finland,2011-04-01,128.0
+976,Finland,2011-05-01,111.1
+977,Finland,2011-06-01,108.0
+978,Finland,2011-07-01,122.7
+979,Finland,2011-08-01,119.7
+980,Finland,2011-09-01,116.8
+981,Finland,2011-10-01,124.8
+982,Finland,2011-11-01,134.5
+983,Finland,2011-12-01,124.9
+984,Finland,2012-01-01,123.3
+985,Finland,2012-02-01,128.2
+986,Finland,2012-03-01,166.6
+987,Finland,2012-04-01,113.4
+988,Finland,2012-05-01,120.7
+989,Finland,2012-06-01,109.9
+990,Finland,2012-07-01,106.8
+991,Finland,2012-08-01,93.2
+992,Finland,2012-09-01,96.7
+993,Finland,2012-10-01,94.8
+994,Finland,2012-11-01,96.4
+995,Finland,2012-12-01,100.6
+996,Finland,2013-01-01,88.5
+997,Finland,2013-02-01,91.7
+998,Finland,2013-03-01,94.2
+999,Finland,2013-04-01,95.2
+1000,Finland,2013-05-01,97.3
+1001,Finland,2013-06-01,96.5
+1002,Finland,2013-07-01,98.1
+1003,Finland,2013-08-01,95.4
+1004,Finland,2013-09-01,98.8
+1005,Finland,2013-10-01,101.0
+1006,Finland,2013-11-01,96.6
+1007,Finland,2013-12-01,98.1
+1008,Finland,2014-01-01,102.1
+1009,Finland,2014-02-01,97.9
+1010,Finland,2014-03-01,98.4
+1011,Finland,2014-04-01,96.1
+1012,Finland,2014-05-01,96.9
+1013,Finland,2014-06-01,100.4
+1014,Finland,2014-07-01,97.2
+1015,Finland,2014-08-01,98.0
+1016,Finland,2014-09-01,97.9
+1017,Finland,2014-10-01,97.6
+1018,Finland,2014-11-01,97.2
+1019,Finland,2014-12-01,99.3
+1020,Finland,2015-01-01,95.1
+1021,Finland,2015-02-01,98.7
+1022,Finland,2015-03-01,101.8
+1023,Finland,2015-04-01,98.6
+1024,Finland,2015-05-01,95.5
+1025,Finland,2015-06-01,98.4
+1026,Finland,2015-07-01,100.9
+1027,Finland,2015-08-01,100.9
+1028,Finland,2015-09-01,100.4
+1029,Finland,2015-10-01,101.8
+1030,Finland,2015-11-01,105.9
+1031,Finland,2015-12-01,103.9
+1032,Finland,2016-01-01,107.2
+1033,Finland,2016-02-01,110.5
+1034,Finland,2016-03-01,107.6
+1035,Finland,2016-04-01,107.1
+1036,Finland,2016-05-01,104.2
+1037,Finland,2016-06-01,108.9
+1038,Finland,2016-07-01,106.7
+1039,Finland,2016-08-01,108.2
+1040,Finland,2016-09-01,111.6
+1041,Finland,2016-10-01,110.9
+1042,Finland,2016-11-01,111.8
+1043,Finland,2016-12-01,111.1
+1044,Finland,2017-01-01,112.6
+1045,Finland,2017-02-01,109.8
+1046,Finland,2017-03-01,112.1
+1047,Finland,2017-04-01,110.3
+1048,Finland,2017-05-01,114.4
+1049,Finland,2017-06-01,113.7
+1050,Finland,2017-07-01,116.4
+1051,Finland,2017-08-01,112.8
+1052,Finland,2017-09-01,114.9
+1053,Finland,2017-10-01,114.2
+1054,Finland,2017-11-01,119.2
+1055,Finland,2017-12-01,116.8
+1056,Finland,2018-01-01,118.5
+1057,Finland,2018-02-01,113.6
+1058,Finland,2018-03-01,116.4
+1059,Finland,2018-04-01,119.1
+1060,Finland,2018-05-01,122.0
+1061,Finland,2018-06-01,119.2
+1062,Finland,2018-07-01,118.6
+1063,Finland,2018-08-01,121.9
+1064,Finland,2018-09-01,112.2
+1065,Finland,2018-10-01,115.7
+1066,Finland,2018-11-01,116.3
+1067,Finland,2018-12-01,115.9
+1068,Finland,2019-01-01,114.6
+1069,Finland,2019-02-01,116.8
+1070,Finland,2019-03-01,113.8
+1071,Finland,2019-04-01,116.4
+1072,Finland,2019-05-01,117.7
+1073,Finland,2019-06-01,121.9
+1074,Finland,2019-07-01,120.9
+1075,Finland,2019-08-01,122.8
+1076,Finland,2019-09-01,123.9
+1077,Finland,2019-10-01,122.5
+1078,Finland,2019-11-01,121.6
+1079,Finland,2019-12-01,126.8
+1080,France,2010-01-01,90.0
+1081,France,2010-02-01,89.8
+1082,France,2010-03-01,90.2
+1083,France,2010-04-01,89.5
+1084,France,2010-05-01,90.4
+1085,France,2010-06-01,90.0
+1086,France,2010-07-01,89.6
+1087,France,2010-08-01,91.4
+1088,France,2010-09-01,90.8
+1089,France,2010-10-01,91.1
+1090,France,2010-11-01,93.7
+1091,France,2010-12-01,93.2
+1092,France,2011-01-01,95.8
+1093,France,2011-02-01,96.2
+1094,France,2011-03-01,96.7
+1095,France,2011-04-01,95.1
+1096,France,2011-05-01,93.9
+1097,France,2011-06-01,94.7
+1098,France,2011-07-01,94.2
+1099,France,2011-08-01,93.6
+1100,France,2011-09-01,95.7
+1101,France,2011-10-01,96.1
+1102,France,2011-11-01,97.3
+1103,France,2011-12-01,95.4
+1104,France,2012-01-01,95.6
+1105,France,2012-02-01,94.2
+1106,France,2012-03-01,95.1
+1107,France,2012-04-01,94.2
+1108,France,2012-05-01,94.6
+1109,France,2012-06-01,96.1
+1110,France,2012-07-01,94.1
+1111,France,2012-08-01,93.9
+1112,France,2012-09-01,93.4
+1113,France,2012-10-01,93.7
+1114,France,2012-11-01,92.0
+1115,France,2012-12-01,95.3
+1116,France,2013-01-01,92.8
+1117,France,2013-02-01,93.0
+1118,France,2013-03-01,91.3
+1119,France,2013-04-01,92.7
+1120,France,2013-05-01,93.2
+1121,France,2013-06-01,93.3
+1122,France,2013-07-01,91.6
+1123,France,2013-08-01,94.1
+1124,France,2013-09-01,94.6
+1125,France,2013-10-01,94.1
+1126,France,2013-11-01,95.8
+1127,France,2013-12-01,98.1
+1128,France,2014-01-01,93.0
+1129,France,2014-02-01,94.2
+1130,France,2014-03-01,93.8
+1131,France,2014-04-01,95.1
+1132,France,2014-05-01,94.0
+1133,France,2014-06-01,94.0
+1134,France,2014-07-01,94.9
+1135,France,2014-08-01,96.9
+1136,France,2014-09-01,95.3
+1137,France,2014-10-01,96.5
+1138,France,2014-11-01,95.8
+1139,France,2014-12-01,97.2
+1140,France,2015-01-01,96.7
+1141,France,2015-02-01,97.4
+1142,France,2015-03-01,98.3
+1143,France,2015-04-01,98.3
+1144,France,2015-05-01,99.1
+1145,France,2015-06-01,100.3
+1146,France,2015-07-01,101.7
+1147,France,2015-08-01,100.6
+1148,France,2015-09-01,101.9
+1149,France,2015-10-01,101.8
+1150,France,2015-11-01,102.0
+1151,France,2015-12-01,101.8
+1152,France,2016-01-01,105.8
+1153,France,2016-02-01,105.2
+1154,France,2016-03-01,105.2
+1155,France,2016-04-01,106.0
+1156,France,2016-05-01,105.7
+1157,France,2016-06-01,105.6
+1158,France,2016-07-01,103.4
+1159,France,2016-08-01,107.5
+1160,France,2016-09-01,108.0
+1161,France,2016-10-01,106.2
+1162,France,2016-11-01,110.4
+1163,France,2016-12-01,111.8
+1164,France,2017-01-01,110.5
+1165,France,2017-02-01,111.8
+1166,France,2017-03-01,113.4
+1167,France,2017-04-01,109.8
+1168,France,2017-05-01,114.8
+1169,France,2017-06-01,114.6
+1170,France,2017-07-01,115.9
+1171,France,2017-08-01,115.2
+1172,France,2017-09-01,117.3
+1173,France,2017-10-01,118.2
+1174,France,2017-11-01,118.9
+1175,France,2017-12-01,127.3
+1176,France,2018-01-01,118.3
+1177,France,2018-02-01,119.2
+1178,France,2018-03-01,120.6
+1179,France,2018-04-01,120.9
+1180,France,2018-05-01,121.5
+1181,France,2018-06-01,122.4
+1182,France,2018-07-01,121.1
+1183,France,2018-08-01,121.7
+1184,France,2018-09-01,120.8
+1185,France,2018-10-01,122.6
+1186,France,2018-11-01,120.8
+1187,France,2018-12-01,120.0
+1188,France,2019-01-01,124.4
+1189,France,2019-02-01,126.3
+1190,France,2019-03-01,124.6
+1191,France,2019-04-01,124.9
+1192,France,2019-05-01,125.8
+1193,France,2019-06-01,126.3
+1194,France,2019-07-01,127.1
+1195,France,2019-08-01,128.2
+1196,France,2019-09-01,128.0
+1197,France,2019-10-01,127.4
+1198,France,2019-11-01,128.7
+1199,France,2019-12-01,135.7
+240,Germany (until 1990 former territory of the FRG),2010-01-01,78.9
+241,Germany (until 1990 former territory of the FRG),2010-02-01,77.7
+242,Germany (until 1990 former territory of the FRG),2010-03-01,82.9
+243,Germany (until 1990 former territory of the FRG),2010-04-01,84.4
+244,Germany (until 1990 former territory of the FRG),2010-05-01,84.1
+245,Germany (until 1990 former territory of the FRG),2010-06-01,88.0
+246,Germany (until 1990 former territory of the FRG),2010-07-01,87.0
+247,Germany (until 1990 former territory of the FRG),2010-08-01,87.7
+248,Germany (until 1990 former territory of the FRG),2010-09-01,88.5
+249,Germany (until 1990 former territory of the FRG),2010-10-01,89.5
+250,Germany (until 1990 former territory of the FRG),2010-11-01,90.6
+251,Germany (until 1990 former territory of the FRG),2010-12-01,90.9
+252,Germany (until 1990 former territory of the FRG),2011-01-01,92.2
+253,Germany (until 1990 former territory of the FRG),2011-02-01,93.4
+254,Germany (until 1990 former territory of the FRG),2011-03-01,91.1
+255,Germany (until 1990 former territory of the FRG),2011-04-01,91.3
+256,Germany (until 1990 former territory of the FRG),2011-05-01,91.8
+257,Germany (until 1990 former territory of the FRG),2011-06-01,90.1
+258,Germany (until 1990 former territory of the FRG),2011-07-01,92.9
+259,Germany (until 1990 former territory of the FRG),2011-08-01,91.9
+260,Germany (until 1990 former territory of the FRG),2011-09-01,93.4
+261,Germany (until 1990 former territory of the FRG),2011-10-01,95.5
+262,Germany (until 1990 former territory of the FRG),2011-11-01,95.0
+263,Germany (until 1990 former territory of the FRG),2011-12-01,93.8
+264,Germany (until 1990 former territory of the FRG),2012-01-01,92.8
+265,Germany (until 1990 former territory of the FRG),2012-02-01,93.2
+266,Germany (until 1990 former territory of the FRG),2012-03-01,96.8
+267,Germany (until 1990 former territory of the FRG),2012-04-01,91.1
+268,Germany (until 1990 former territory of the FRG),2012-05-01,91.3
+269,Germany (until 1990 former territory of the FRG),2012-06-01,91.1
+270,Germany (until 1990 former territory of the FRG),2012-07-01,91.1
+271,Germany (until 1990 former territory of the FRG),2012-08-01,91.0
+272,Germany (until 1990 former territory of the FRG),2012-09-01,91.6
+273,Germany (until 1990 former territory of the FRG),2012-10-01,90.4
+274,Germany (until 1990 former territory of the FRG),2012-11-01,90.1
+275,Germany (until 1990 former territory of the FRG),2012-12-01,88.9
+276,Germany (until 1990 former territory of the FRG),2013-01-01,87.2
+277,Germany (until 1990 former territory of the FRG),2013-02-01,87.3
+278,Germany (until 1990 former territory of the FRG),2013-03-01,88.5
+279,Germany (until 1990 former territory of the FRG),2013-04-01,90.1
+280,Germany (until 1990 former territory of the FRG),2013-05-01,91.3
+281,Germany (until 1990 former territory of the FRG),2013-06-01,90.5
+282,Germany (until 1990 former territory of the FRG),2013-07-01,89.7
+283,Germany (until 1990 former territory of the FRG),2013-08-01,91.4
+284,Germany (until 1990 former territory of the FRG),2013-09-01,91.2
+285,Germany (until 1990 former territory of the FRG),2013-10-01,93.0
+286,Germany (until 1990 former territory of the FRG),2013-11-01,92.8
+287,Germany (until 1990 former territory of the FRG),2013-12-01,92.8
+288,Germany (until 1990 former territory of the FRG),2014-01-01,93.4
+289,Germany (until 1990 former territory of the FRG),2014-02-01,92.1
+290,Germany (until 1990 former territory of the FRG),2014-03-01,92.1
+291,Germany (until 1990 former territory of the FRG),2014-04-01,91.4
+292,Germany (until 1990 former territory of the FRG),2014-05-01,91.0
+293,Germany (until 1990 former territory of the FRG),2014-06-01,91.3
+294,Germany (until 1990 former territory of the FRG),2014-07-01,92.2
+295,Germany (until 1990 former territory of the FRG),2014-08-01,93.4
+296,Germany (until 1990 former territory of the FRG),2014-09-01,93.1
+297,Germany (until 1990 former territory of the FRG),2014-10-01,93.7
+298,Germany (until 1990 former territory of the FRG),2014-11-01,93.1
+299,Germany (until 1990 former territory of the FRG),2014-12-01,96.9
+300,Germany (until 1990 former territory of the FRG),2015-01-01,96.8
+301,Germany (until 1990 former territory of the FRG),2015-02-01,97.1
+302,Germany (until 1990 former territory of the FRG),2015-03-01,99.3
+303,Germany (until 1990 former territory of the FRG),2015-04-01,99.6
+304,Germany (until 1990 former territory of the FRG),2015-05-01,100.2
+305,Germany (until 1990 former territory of the FRG),2015-06-01,99.4
+306,Germany (until 1990 former territory of the FRG),2015-07-01,100.6
+307,Germany (until 1990 former territory of the FRG),2015-08-01,99.1
+308,Germany (until 1990 former territory of the FRG),2015-09-01,99.6
+309,Germany (until 1990 former territory of the FRG),2015-10-01,101.2
+310,Germany (until 1990 former territory of the FRG),2015-11-01,102.4
+311,Germany (until 1990 former territory of the FRG),2015-12-01,101.1
+312,Germany (until 1990 former territory of the FRG),2016-01-01,106.1
+313,Germany (until 1990 former territory of the FRG),2016-02-01,105.3
+314,Germany (until 1990 former territory of the FRG),2016-03-01,103.9
+315,Germany (until 1990 former territory of the FRG),2016-04-01,105.6
+316,Germany (until 1990 former territory of the FRG),2016-05-01,104.1
+317,Germany (until 1990 former territory of the FRG),2016-06-01,104.6
+318,Germany (until 1990 former territory of the FRG),2016-07-01,103.7
+319,Germany (until 1990 former territory of the FRG),2016-08-01,107.1
+320,Germany (until 1990 former territory of the FRG),2016-09-01,109.2
+321,Germany (until 1990 former territory of the FRG),2016-10-01,108.7
+322,Germany (until 1990 former territory of the FRG),2016-11-01,108.7
+323,Germany (until 1990 former territory of the FRG),2016-12-01,108.3
+324,Germany (until 1990 former territory of the FRG),2017-01-01,108.0
+325,Germany (until 1990 former territory of the FRG),2017-02-01,111.0
+326,Germany (until 1990 former territory of the FRG),2017-03-01,111.7
+327,Germany (until 1990 former territory of the FRG),2017-04-01,111.0
+328,Germany (until 1990 former territory of the FRG),2017-05-01,111.4
+329,Germany (until 1990 former territory of the FRG),2017-06-01,113.2
+330,Germany (until 1990 former territory of the FRG),2017-07-01,111.8
+331,Germany (until 1990 former territory of the FRG),2017-08-01,112.9
+332,Germany (until 1990 former territory of the FRG),2017-09-01,115.4
+333,Germany (until 1990 former territory of the FRG),2017-10-01,114.4
+334,Germany (until 1990 former territory of the FRG),2017-11-01,117.3
+335,Germany (until 1990 former territory of the FRG),2017-12-01,116.2
+336,Germany (until 1990 former territory of the FRG),2018-01-01,115.8
+337,Germany (until 1990 former territory of the FRG),2018-02-01,115.5
+338,Germany (until 1990 former territory of the FRG),2018-03-01,114.6
+339,Germany (until 1990 former territory of the FRG),2018-04-01,115.3
+340,Germany (until 1990 former territory of the FRG),2018-05-01,117.5
+341,Germany (until 1990 former territory of the FRG),2018-06-01,117.8
+342,Germany (until 1990 former territory of the FRG),2018-07-01,116.5
+343,Germany (until 1990 former territory of the FRG),2018-08-01,117.0
+344,Germany (until 1990 former territory of the FRG),2018-09-01,114.8
+345,Germany (until 1990 former territory of the FRG),2018-10-01,116.8
+346,Germany (until 1990 former territory of the FRG),2018-11-01,117.6
+347,Germany (until 1990 former territory of the FRG),2018-12-01,119.1
+348,Germany (until 1990 former territory of the FRG),2019-01-01,119.8
+349,Germany (until 1990 former territory of the FRG),2019-02-01,121.7
+350,Germany (until 1990 former territory of the FRG),2019-03-01,122.2
+351,Germany (until 1990 former territory of the FRG),2019-04-01,121.3
+352,Germany (until 1990 former territory of the FRG),2019-05-01,122.3
+353,Germany (until 1990 former territory of the FRG),2019-06-01,122.6
+354,Germany (until 1990 former territory of the FRG),2019-07-01,125.2
+355,Germany (until 1990 former territory of the FRG),2019-08-01,125.0
+356,Germany (until 1990 former territory of the FRG),2019-09-01,124.2
+357,Germany (until 1990 former territory of the FRG),2019-10-01,124.2
+358,Germany (until 1990 former territory of the FRG),2019-11-01,124.4
+359,Germany (until 1990 former territory of the FRG),2019-12-01,125.8
+1320,Ireland,2010-01-01,
+1321,Ireland,2010-02-01,
+1322,Ireland,2010-03-01,
+1323,Ireland,2010-04-01,
+1324,Ireland,2010-05-01,
+1325,Ireland,2010-06-01,
+1326,Ireland,2010-07-01,
+1327,Ireland,2010-08-01,
+1328,Ireland,2010-09-01,
+1329,Ireland,2010-10-01,
+1330,Ireland,2010-11-01,
+1331,Ireland,2010-12-01,
+1332,Ireland,2011-01-01,
+1333,Ireland,2011-02-01,
+1334,Ireland,2011-03-01,
+1335,Ireland,2011-04-01,
+1336,Ireland,2011-05-01,
+1337,Ireland,2011-06-01,
+1338,Ireland,2011-07-01,
+1339,Ireland,2011-08-01,
+1340,Ireland,2011-09-01,
+1341,Ireland,2011-10-01,
+1342,Ireland,2011-11-01,
+1343,Ireland,2011-12-01,
+1344,Ireland,2012-01-01,
+1345,Ireland,2012-02-01,
+1346,Ireland,2012-03-01,
+1347,Ireland,2012-04-01,
+1348,Ireland,2012-05-01,
+1349,Ireland,2012-06-01,
+1350,Ireland,2012-07-01,
+1351,Ireland,2012-08-01,
+1352,Ireland,2012-09-01,
+1353,Ireland,2012-10-01,
+1354,Ireland,2012-11-01,
+1355,Ireland,2012-12-01,
+1356,Ireland,2013-01-01,
+1357,Ireland,2013-02-01,
+1358,Ireland,2013-03-01,
+1359,Ireland,2013-04-01,
+1360,Ireland,2013-05-01,
+1361,Ireland,2013-06-01,
+1362,Ireland,2013-07-01,
+1363,Ireland,2013-08-01,
+1364,Ireland,2013-09-01,
+1365,Ireland,2013-10-01,
+1366,Ireland,2013-11-01,
+1367,Ireland,2013-12-01,
+1368,Ireland,2014-01-01,
+1369,Ireland,2014-02-01,
+1370,Ireland,2014-03-01,
+1371,Ireland,2014-04-01,
+1372,Ireland,2014-05-01,
+1373,Ireland,2014-06-01,
+1374,Ireland,2014-07-01,
+1375,Ireland,2014-08-01,
+1376,Ireland,2014-09-01,
+1377,Ireland,2014-10-01,
+1378,Ireland,2014-11-01,
+1379,Ireland,2014-12-01,
+1380,Ireland,2015-01-01,
+1381,Ireland,2015-02-01,
+1382,Ireland,2015-03-01,
+1383,Ireland,2015-04-01,
+1384,Ireland,2015-05-01,
+1385,Ireland,2015-06-01,
+1386,Ireland,2015-07-01,
+1387,Ireland,2015-08-01,
+1388,Ireland,2015-09-01,
+1389,Ireland,2015-10-01,
+1390,Ireland,2015-11-01,
+1391,Ireland,2015-12-01,
+1392,Ireland,2016-01-01,
+1393,Ireland,2016-02-01,
+1394,Ireland,2016-03-01,
+1395,Ireland,2016-04-01,
+1396,Ireland,2016-05-01,
+1397,Ireland,2016-06-01,
+1398,Ireland,2016-07-01,
+1399,Ireland,2016-08-01,
+1400,Ireland,2016-09-01,
+1401,Ireland,2016-10-01,
+1402,Ireland,2016-11-01,
+1403,Ireland,2016-12-01,
+1404,Ireland,2017-01-01,
+1405,Ireland,2017-02-01,
+1406,Ireland,2017-03-01,
+1407,Ireland,2017-04-01,
+1408,Ireland,2017-05-01,
+1409,Ireland,2017-06-01,
+1410,Ireland,2017-07-01,
+1411,Ireland,2017-08-01,
+1412,Ireland,2017-09-01,
+1413,Ireland,2017-10-01,
+1414,Ireland,2017-11-01,
+1415,Ireland,2017-12-01,
+1416,Ireland,2018-01-01,
+1417,Ireland,2018-02-01,
+1418,Ireland,2018-03-01,
+1419,Ireland,2018-04-01,
+1420,Ireland,2018-05-01,
+1421,Ireland,2018-06-01,
+1422,Ireland,2018-07-01,
+1423,Ireland,2018-08-01,
+1424,Ireland,2018-09-01,
+1425,Ireland,2018-10-01,
+1426,Ireland,2018-11-01,
+1427,Ireland,2018-12-01,
+1428,Ireland,2019-01-01,
+1429,Ireland,2019-02-01,
+1430,Ireland,2019-03-01,
+1431,Ireland,2019-04-01,
+1432,Ireland,2019-05-01,
+1433,Ireland,2019-06-01,
+1434,Ireland,2019-07-01,
+1435,Ireland,2019-08-01,
+1436,Ireland,2019-09-01,
+1437,Ireland,2019-10-01,
+1438,Ireland,2019-11-01,
+1439,Ireland,2019-12-01,
+1680,Latvia,2010-01-01,48.2
+1681,Latvia,2010-02-01,46.4
+1682,Latvia,2010-03-01,50.4
+1683,Latvia,2010-04-01,56.7
+1684,Latvia,2010-05-01,55.1
+1685,Latvia,2010-06-01,57.3
+1686,Latvia,2010-07-01,58.6
+1687,Latvia,2010-08-01,61.7
+1688,Latvia,2010-09-01,64.3
+1689,Latvia,2010-10-01,67.1
+1690,Latvia,2010-11-01,69.6
+1691,Latvia,2010-12-01,69.5
+1692,Latvia,2011-01-01,74.2
+1693,Latvia,2011-02-01,79.7
+1694,Latvia,2011-03-01,77.7
+1695,Latvia,2011-04-01,82.9
+1696,Latvia,2011-05-01,85.4
+1697,Latvia,2011-06-01,86.0
+1698,Latvia,2011-07-01,87.8
+1699,Latvia,2011-08-01,86.0
+1700,Latvia,2011-09-01,88.4
+1701,Latvia,2011-10-01,92.7
+1702,Latvia,2011-11-01,88.1
+1703,Latvia,2011-12-01,92.1
+1704,Latvia,2012-01-01,85.7
+1705,Latvia,2012-02-01,81.8
+1706,Latvia,2012-03-01,82.4
+1707,Latvia,2012-04-01,82.3
+1708,Latvia,2012-05-01,79.0
+1709,Latvia,2012-06-01,79.8
+1710,Latvia,2012-07-01,85.5
+1711,Latvia,2012-08-01,79.6
+1712,Latvia,2012-09-01,85.9
+1713,Latvia,2012-10-01,90.0
+1714,Latvia,2012-11-01,87.8
+1715,Latvia,2012-12-01,84.6
+1716,Latvia,2013-01-01,89.7
+1717,Latvia,2013-02-01,89.8
+1718,Latvia,2013-03-01,88.6
+1719,Latvia,2013-04-01,89.4
+1720,Latvia,2013-05-01,90.5
+1721,Latvia,2013-06-01,92.4
+1722,Latvia,2013-07-01,91.9
+1723,Latvia,2013-08-01,93.0
+1724,Latvia,2013-09-01,98.2
+1725,Latvia,2013-10-01,98.8
+1726,Latvia,2013-11-01,93.4
+1727,Latvia,2013-12-01,94.1
+1728,Latvia,2014-01-01,94.7
+1729,Latvia,2014-02-01,92.3
+1730,Latvia,2014-03-01,93.2
+1731,Latvia,2014-04-01,91.1
+1732,Latvia,2014-05-01,89.6
+1733,Latvia,2014-06-01,92.7
+1734,Latvia,2014-07-01,94.1
+1735,Latvia,2014-08-01,97.7
+1736,Latvia,2014-09-01,90.7
+1737,Latvia,2014-10-01,101.3
+1738,Latvia,2014-11-01,96.6
+1739,Latvia,2014-12-01,94.2
+1740,Latvia,2015-01-01,93.1
+1741,Latvia,2015-02-01,91.9
+1742,Latvia,2015-03-01,99.3
+1743,Latvia,2015-04-01,100.9
+1744,Latvia,2015-05-01,93.9
+1745,Latvia,2015-06-01,101.9
+1746,Latvia,2015-07-01,108.3
+1747,Latvia,2015-08-01,102.1
+1748,Latvia,2015-09-01,104.9
+1749,Latvia,2015-10-01,105.8
+1750,Latvia,2015-11-01,100.9
+1751,Latvia,2015-12-01,97.1
+1752,Latvia,2016-01-01,98.0
+1753,Latvia,2016-02-01,101.0
+1754,Latvia,2016-03-01,105.3
+1755,Latvia,2016-04-01,97.6
+1756,Latvia,2016-05-01,105.1
+1757,Latvia,2016-06-01,107.7
+1758,Latvia,2016-07-01,104.9
+1759,Latvia,2016-08-01,101.2
+1760,Latvia,2016-09-01,105.7
+1761,Latvia,2016-10-01,103.8
+1762,Latvia,2016-11-01,108.4
+1763,Latvia,2016-12-01,108.4
+1764,Latvia,2017-01-01,116.8
+1765,Latvia,2017-02-01,118.3
+1766,Latvia,2017-03-01,125.6
+1767,Latvia,2017-04-01,119.8
+1768,Latvia,2017-05-01,122.7
+1769,Latvia,2017-06-01,117.0
+1770,Latvia,2017-07-01,116.5
+1771,Latvia,2017-08-01,122.5
+1772,Latvia,2017-09-01,129.0
+1773,Latvia,2017-10-01,121.7
+1774,Latvia,2017-11-01,122.3
+1775,Latvia,2017-12-01,129.3
+1776,Latvia,2018-01-01,131.0
+1777,Latvia,2018-02-01,134.6
+1778,Latvia,2018-03-01,122.3
+1779,Latvia,2018-04-01,127.5
+1780,Latvia,2018-05-01,129.6
+1781,Latvia,2018-06-01,123.9
+1782,Latvia,2018-07-01,129.9
+1783,Latvia,2018-08-01,129.1
+1784,Latvia,2018-09-01,121.5
+1785,Latvia,2018-10-01,128.9
+1786,Latvia,2018-11-01,140.3
+1787,Latvia,2018-12-01,128.8
+1788,Latvia,2019-01-01,140.4
+1789,Latvia,2019-02-01,139.2
+1790,Latvia,2019-03-01,135.1
+1791,Latvia,2019-04-01,138.2
+1792,Latvia,2019-05-01,134.6
+1793,Latvia,2019-06-01,136.3
+1794,Latvia,2019-07-01,134.2
+1795,Latvia,2019-08-01,139.6
+1796,Latvia,2019-09-01,134.9
+1797,Latvia,2019-10-01,132.9
+1798,Latvia,2019-11-01,129.9
+1799,Latvia,2019-12-01,132.7
+1440,Lithuania,2010-01-01,55.4
+1441,Lithuania,2010-02-01,57.0
+1442,Lithuania,2010-03-01,59.3
+1443,Lithuania,2010-04-01,60.4
+1444,Lithuania,2010-05-01,62.3
+1445,Lithuania,2010-06-01,62.2
+1446,Lithuania,2010-07-01,62.3
+1447,Lithuania,2010-08-01,68.4
+1448,Lithuania,2010-09-01,70.8
+1449,Lithuania,2010-10-01,75.0
+1450,Lithuania,2010-11-01,76.8
+1451,Lithuania,2010-12-01,80.9
+1452,Lithuania,2011-01-01,82.9
+1453,Lithuania,2011-02-01,92.1
+1454,Lithuania,2011-03-01,91.3
+1455,Lithuania,2011-04-01,92.4
+1456,Lithuania,2011-05-01,93.0
+1457,Lithuania,2011-06-01,96.8
+1458,Lithuania,2011-07-01,79.8
+1459,Lithuania,2011-08-01,85.2
+1460,Lithuania,2011-09-01,87.3
+1461,Lithuania,2011-10-01,86.4
+1462,Lithuania,2011-11-01,92.0
+1463,Lithuania,2011-12-01,84.3
+1464,Lithuania,2012-01-01,85.6
+1465,Lithuania,2012-02-01,84.8
+1466,Lithuania,2012-03-01,83.2
+1467,Lithuania,2012-04-01,89.3
+1468,Lithuania,2012-05-01,91.6
+1469,Lithuania,2012-06-01,89.1
+1470,Lithuania,2012-07-01,96.9
+1471,Lithuania,2012-08-01,99.1
+1472,Lithuania,2012-09-01,96.3
+1473,Lithuania,2012-10-01,100.7
+1474,Lithuania,2012-11-01,94.8
+1475,Lithuania,2012-12-01,98.7
+1476,Lithuania,2013-01-01,96.1
+1477,Lithuania,2013-02-01,99.0
+1478,Lithuania,2013-03-01,102.9
+1479,Lithuania,2013-04-01,101.9
+1480,Lithuania,2013-05-01,102.8
+1481,Lithuania,2013-06-01,102.5
+1482,Lithuania,2013-07-01,100.0
+1483,Lithuania,2013-08-01,101.9
+1484,Lithuania,2013-09-01,103.6
+1485,Lithuania,2013-10-01,103.7
+1486,Lithuania,2013-11-01,107.5
+1487,Lithuania,2013-12-01,107.9
+1488,Lithuania,2014-01-01,107.3
+1489,Lithuania,2014-02-01,98.1
+1490,Lithuania,2014-03-01,90.8
+1491,Lithuania,2014-04-01,90.5
+1492,Lithuania,2014-05-01,89.6
+1493,Lithuania,2014-06-01,93.4
+1494,Lithuania,2014-07-01,91.5
+1495,Lithuania,2014-08-01,90.4
+1496,Lithuania,2014-09-01,94.1
+1497,Lithuania,2014-10-01,98.8
+1498,Lithuania,2014-11-01,94.3
+1499,Lithuania,2014-12-01,93.1
+1500,Lithuania,2015-01-01,97.2
+1501,Lithuania,2015-02-01,95.7
+1502,Lithuania,2015-03-01,103.8
+1503,Lithuania,2015-04-01,96.2
+1504,Lithuania,2015-05-01,101.8
+1505,Lithuania,2015-06-01,97.9
+1506,Lithuania,2015-07-01,101.0
+1507,Lithuania,2015-08-01,100.1
+1508,Lithuania,2015-09-01,103.3
+1509,Lithuania,2015-10-01,100.0
+1510,Lithuania,2015-11-01,100.6
+1511,Lithuania,2015-12-01,102.4
+1512,Lithuania,2016-01-01,107.3
+1513,Lithuania,2016-02-01,111.7
+1514,Lithuania,2016-03-01,111.3
+1515,Lithuania,2016-04-01,116.2
+1516,Lithuania,2016-05-01,116.6
+1517,Lithuania,2016-06-01,119.0
+1518,Lithuania,2016-07-01,118.2
+1519,Lithuania,2016-08-01,119.4
+1520,Lithuania,2016-09-01,121.1
+1521,Lithuania,2016-10-01,121.3
+1522,Lithuania,2016-11-01,121.6
+1523,Lithuania,2016-12-01,122.1
+1524,Lithuania,2017-01-01,130.3
+1525,Lithuania,2017-02-01,133.5
+1526,Lithuania,2017-03-01,132.7
+1527,Lithuania,2017-04-01,133.7
+1528,Lithuania,2017-05-01,135.7
+1529,Lithuania,2017-06-01,135.0
+1530,Lithuania,2017-07-01,137.7
+1531,Lithuania,2017-08-01,137.4
+1532,Lithuania,2017-09-01,142.8
+1533,Lithuania,2017-10-01,137.9
+1534,Lithuania,2017-11-01,138.0
+1535,Lithuania,2017-12-01,142.8
+1536,Lithuania,2018-01-01,144.5
+1537,Lithuania,2018-02-01,143.8
+1538,Lithuania,2018-03-01,149.0
+1539,Lithuania,2018-04-01,152.2
+1540,Lithuania,2018-05-01,155.8
+1541,Lithuania,2018-06-01,155.5
+1542,Lithuania,2018-07-01,158.5
+1543,Lithuania,2018-08-01,149.2
+1544,Lithuania,2018-09-01,145.8
+1545,Lithuania,2018-10-01,155.3
+1546,Lithuania,2018-11-01,159.8
+1547,Lithuania,2018-12-01,162.6
+1548,Lithuania,2019-01-01,191.0
+1549,Lithuania,2019-02-01,177.5
+1550,Lithuania,2019-03-01,175.7
+1551,Lithuania,2019-04-01,171.5
+1552,Lithuania,2019-05-01,171.4
+1553,Lithuania,2019-06-01,170.4
+1554,Lithuania,2019-07-01,168.0
+1555,Lithuania,2019-08-01,174.4
+1556,Lithuania,2019-09-01,180.4
+1557,Lithuania,2019-10-01,174.4
+1558,Lithuania,2019-11-01,177.0
+1559,Lithuania,2019-12-01,166.0
+1560,Luxembourg,2010-01-01,85.3
+1561,Luxembourg,2010-02-01,85.3
+1562,Luxembourg,2010-03-01,92.5
+1563,Luxembourg,2010-04-01,98.2
+1564,Luxembourg,2010-05-01,100.6
+1565,Luxembourg,2010-06-01,93.3
+1566,Luxembourg,2010-07-01,97.5
+1567,Luxembourg,2010-08-01,91.5
+1568,Luxembourg,2010-09-01,90.2
+1569,Luxembourg,2010-10-01,94.8
+1570,Luxembourg,2010-11-01,94.2
+1571,Luxembourg,2010-12-01,85.6
+1572,Luxembourg,2011-01-01,97.1
+1573,Luxembourg,2011-02-01,99.3
+1574,Luxembourg,2011-03-01,97.1
+1575,Luxembourg,2011-04-01,97.0
+1576,Luxembourg,2011-05-01,98.7
+1577,Luxembourg,2011-06-01,99.4
+1578,Luxembourg,2011-07-01,107.3
+1579,Luxembourg,2011-08-01,101.5
+1580,Luxembourg,2011-09-01,107.0
+1581,Luxembourg,2011-10-01,104.1
+1582,Luxembourg,2011-11-01,99.8
+1583,Luxembourg,2011-12-01,94.4
+1584,Luxembourg,2012-01-01,95.8
+1585,Luxembourg,2012-02-01,92.2
+1586,Luxembourg,2012-03-01,95.1
+1587,Luxembourg,2012-04-01,96.8
+1588,Luxembourg,2012-05-01,88.5
+1589,Luxembourg,2012-06-01,97.7
+1590,Luxembourg,2012-07-01,94.6
+1591,Luxembourg,2012-08-01,89.9
+1592,Luxembourg,2012-09-01,91.9
+1593,Luxembourg,2012-10-01,92.7
+1594,Luxembourg,2012-11-01,97.2
+1595,Luxembourg,2012-12-01,96.9
+1596,Luxembourg,2013-01-01,91.2
+1597,Luxembourg,2013-02-01,93.4
+1598,Luxembourg,2013-03-01,93.8
+1599,Luxembourg,2013-04-01,94.0
+1600,Luxembourg,2013-05-01,90.6
+1601,Luxembourg,2013-06-01,88.6
+1602,Luxembourg,2013-07-01,90.4
+1603,Luxembourg,2013-08-01,95.3
+1604,Luxembourg,2013-09-01,94.1
+1605,Luxembourg,2013-10-01,97.0
+1606,Luxembourg,2013-11-01,93.9
+1607,Luxembourg,2013-12-01,100.3
+1608,Luxembourg,2014-01-01,98.9
+1609,Luxembourg,2014-02-01,101.5
+1610,Luxembourg,2014-03-01,99.6
+1611,Luxembourg,2014-04-01,93.9
+1612,Luxembourg,2014-05-01,103.3
+1613,Luxembourg,2014-06-01,99.4
+1614,Luxembourg,2014-07-01,97.5
+1615,Luxembourg,2014-08-01,98.4
+1616,Luxembourg,2014-09-01,101.7
+1617,Luxembourg,2014-10-01,97.2
+1618,Luxembourg,2014-11-01,103.4
+1619,Luxembourg,2014-12-01,112.7
+1620,Luxembourg,2015-01-01,90.9
+1621,Luxembourg,2015-02-01,100.2
+1622,Luxembourg,2015-03-01,96.4
+1623,Luxembourg,2015-04-01,98.3
+1624,Luxembourg,2015-05-01,101.0
+1625,Luxembourg,2015-06-01,98.5
+1626,Luxembourg,2015-07-01,105.6
+1627,Luxembourg,2015-08-01,99.3
+1628,Luxembourg,2015-09-01,105.1
+1629,Luxembourg,2015-10-01,108.6
+1630,Luxembourg,2015-11-01,101.9
+1631,Luxembourg,2015-12-01,89.5
+1632,Luxembourg,2016-01-01,104.8
+1633,Luxembourg,2016-02-01,103.2
+1634,Luxembourg,2016-03-01,102.6
+1635,Luxembourg,2016-04-01,101.0
+1636,Luxembourg,2016-05-01,106.3
+1637,Luxembourg,2016-06-01,101.0
+1638,Luxembourg,2016-07-01,99.4
+1639,Luxembourg,2016-08-01,107.4
+1640,Luxembourg,2016-09-01,108.2
+1641,Luxembourg,2016-10-01,109.0
+1642,Luxembourg,2016-11-01,105.8
+1643,Luxembourg,2016-12-01,108.7
+1644,Luxembourg,2017-01-01,105.4
+1645,Luxembourg,2017-02-01,108.1
+1646,Luxembourg,2017-03-01,106.8
+1647,Luxembourg,2017-04-01,106.8
+1648,Luxembourg,2017-05-01,105.5
+1649,Luxembourg,2017-06-01,116.2
+1650,Luxembourg,2017-07-01,112.1
+1651,Luxembourg,2017-08-01,113.7
+1652,Luxembourg,2017-09-01,126.1
+1653,Luxembourg,2017-10-01,116.4
+1654,Luxembourg,2017-11-01,119.5
+1655,Luxembourg,2017-12-01,117.6
+1656,Luxembourg,2018-01-01,121.1
+1657,Luxembourg,2018-02-01,112.4
+1658,Luxembourg,2018-03-01,114.3
+1659,Luxembourg,2018-04-01,118.6
+1660,Luxembourg,2018-05-01,118.6
+1661,Luxembourg,2018-06-01,130.5
+1662,Luxembourg,2018-07-01,129.5
+1663,Luxembourg,2018-08-01,119.2
+1664,Luxembourg,2018-09-01,101.9
+1665,Luxembourg,2018-10-01,108.7
+1666,Luxembourg,2018-11-01,117.4
+1667,Luxembourg,2018-12-01,130.2
+1668,Luxembourg,2019-01-01,125.0
+1669,Luxembourg,2019-02-01,129.5
+1670,Luxembourg,2019-03-01,129.5
+1671,Luxembourg,2019-04-01,122.7
+1672,Luxembourg,2019-05-01,127.7
+1673,Luxembourg,2019-06-01,121.0
+1674,Luxembourg,2019-07-01,119.0
+1675,Luxembourg,2019-08-01,127.5
+1676,Luxembourg,2019-09-01,128.4
+1677,Luxembourg,2019-10-01,128.5
+1678,Luxembourg,2019-11-01,124.6
+1679,Luxembourg,2019-12-01,121.1
+1920,Malta,2010-01-01,75.2
+1921,Malta,2010-02-01,74.1
+1922,Malta,2010-03-01,75.7
+1923,Malta,2010-04-01,76.4
+1924,Malta,2010-05-01,69.0
+1925,Malta,2010-06-01,70.6
+1926,Malta,2010-07-01,69.5
+1927,Malta,2010-08-01,69.3
+1928,Malta,2010-09-01,69.7
+1929,Malta,2010-10-01,70.9
+1930,Malta,2010-11-01,76.3
+1931,Malta,2010-12-01,71.6
+1932,Malta,2011-01-01,84.5
+1933,Malta,2011-02-01,80.8
+1934,Malta,2011-03-01,77.2
+1935,Malta,2011-04-01,81.1
+1936,Malta,2011-05-01,80.1
+1937,Malta,2011-06-01,91.5
+1938,Malta,2011-07-01,78.6
+1939,Malta,2011-08-01,79.5
+1940,Malta,2011-09-01,74.0
+1941,Malta,2011-10-01,68.6
+1942,Malta,2011-11-01,66.0
+1943,Malta,2011-12-01,79.8
+1944,Malta,2012-01-01,64.9
+1945,Malta,2012-02-01,78.4
+1946,Malta,2012-03-01,64.8
+1947,Malta,2012-04-01,76.4
+1948,Malta,2012-05-01,71.9
+1949,Malta,2012-06-01,72.2
+1950,Malta,2012-07-01,80.5
+1951,Malta,2012-08-01,81.4
+1952,Malta,2012-09-01,81.3
+1953,Malta,2012-10-01,88.2
+1954,Malta,2012-11-01,69.9
+1955,Malta,2012-12-01,69.2
+1956,Malta,2013-01-01,71.9
+1957,Malta,2013-02-01,70.5
+1958,Malta,2013-03-01,65.3
+1959,Malta,2013-04-01,74.1
+1960,Malta,2013-05-01,75.2
+1961,Malta,2013-06-01,69.7
+1962,Malta,2013-07-01,77.1
+1963,Malta,2013-08-01,72.3
+1964,Malta,2013-09-01,74.0
+1965,Malta,2013-10-01,76.5
+1966,Malta,2013-11-01,73.4
+1967,Malta,2013-12-01,71.3
+1968,Malta,2014-01-01,72.2
+1969,Malta,2014-02-01,70.1
+1970,Malta,2014-03-01,72.5
+1971,Malta,2014-04-01,80.4
+1972,Malta,2014-05-01,74.6
+1973,Malta,2014-06-01,78.2
+1974,Malta,2014-07-01,67.6
+1975,Malta,2014-08-01,73.3
+1976,Malta,2014-09-01,78.9
+1977,Malta,2014-10-01,71.8
+1978,Malta,2014-11-01,85.0
+1979,Malta,2014-12-01,84.9
+1980,Malta,2015-01-01,90.6
+1981,Malta,2015-02-01,86.6
+1982,Malta,2015-03-01,95.8
+1983,Malta,2015-04-01,98.7
+1984,Malta,2015-05-01,96.2
+1985,Malta,2015-06-01,99.9
+1986,Malta,2015-07-01,98.9
+1987,Malta,2015-08-01,103.9
+1988,Malta,2015-09-01,104.3
+1989,Malta,2015-10-01,107.1
+1990,Malta,2015-11-01,107.2
+1991,Malta,2015-12-01,114.2
+1992,Malta,2016-01-01,123.7
+1993,Malta,2016-02-01,124.6
+1994,Malta,2016-03-01,108.4
+1995,Malta,2016-04-01,103.2
+1996,Malta,2016-05-01,108.4
+1997,Malta,2016-06-01,106.8
+1998,Malta,2016-07-01,105.7
+1999,Malta,2016-08-01,107.7
+2000,Malta,2016-09-01,100.7
+2001,Malta,2016-10-01,105.3
+2002,Malta,2016-11-01,106.1
+2003,Malta,2016-12-01,100.6
+2004,Malta,2017-01-01,103.2
+2005,Malta,2017-02-01,100.7
+2006,Malta,2017-03-01,113.9
+2007,Malta,2017-04-01,122.1
+2008,Malta,2017-05-01,109.5
+2009,Malta,2017-06-01,106.0
+2010,Malta,2017-07-01,116.3
+2011,Malta,2017-08-01,125.0
+2012,Malta,2017-09-01,118.7
+2013,Malta,2017-10-01,117.3
+2014,Malta,2017-11-01,110.9
+2015,Malta,2017-12-01,120.6
+2016,Malta,2018-01-01,116.9
+2017,Malta,2018-02-01,117.3
+2018,Malta,2018-03-01,123.7
+2019,Malta,2018-04-01,110.5
+2020,Malta,2018-05-01,121.7
+2021,Malta,2018-06-01,114.9
+2022,Malta,2018-07-01,116.7
+2023,Malta,2018-08-01,114.2
+2024,Malta,2018-09-01,116.4
+2025,Malta,2018-10-01,132.9
+2026,Malta,2018-11-01,126.1
+2027,Malta,2018-12-01,122.9
+2028,Malta,2019-01-01,114.8
+2029,Malta,2019-02-01,116.7
+2030,Malta,2019-03-01,128.9
+2031,Malta,2019-04-01,124.7
+2032,Malta,2019-05-01,113.1
+2033,Malta,2019-06-01,122.4
+2034,Malta,2019-07-01,112.6
+2035,Malta,2019-08-01,128.2
+2036,Malta,2019-09-01,110.0
+2037,Malta,2019-10-01,115.8
+2038,Malta,2019-11-01,112.4
+2039,Malta,2019-12-01,106.9
+1800,North Macedonia,2010-01-01,136.4
+1801,North Macedonia,2010-02-01,106.6
+1802,North Macedonia,2010-03-01,101.4
+1803,North Macedonia,2010-04-01,88.6
+1804,North Macedonia,2010-05-01,95.6
+1805,North Macedonia,2010-06-01,84.8
+1806,North Macedonia,2010-07-01,85.4
+1807,North Macedonia,2010-08-01,99.2
+1808,North Macedonia,2010-09-01,92.9
+1809,North Macedonia,2010-10-01,91.8
+1810,North Macedonia,2010-11-01,79.4
+1811,North Macedonia,2010-12-01,84.4
+1812,North Macedonia,2011-01-01,79.0
+1813,North Macedonia,2011-02-01,83.1
+1814,North Macedonia,2011-03-01,82.7
+1815,North Macedonia,2011-04-01,86.8
+1816,North Macedonia,2011-05-01,78.1
+1817,North Macedonia,2011-06-01,79.1
+1818,North Macedonia,2011-07-01,74.1
+1819,North Macedonia,2011-08-01,79.5
+1820,North Macedonia,2011-09-01,79.7
+1821,North Macedonia,2011-10-01,72.6
+1822,North Macedonia,2011-11-01,73.9
+1823,North Macedonia,2011-12-01,80.7
+1824,North Macedonia,2012-01-01,68.0
+1825,North Macedonia,2012-02-01,67.6
+1826,North Macedonia,2012-03-01,73.0
+1827,North Macedonia,2012-04-01,68.8
+1828,North Macedonia,2012-05-01,71.3
+1829,North Macedonia,2012-06-01,87.6
+1830,North Macedonia,2012-07-01,76.1
+1831,North Macedonia,2012-08-01,68.1
+1832,North Macedonia,2012-09-01,65.4
+1833,North Macedonia,2012-10-01,63.9
+1834,North Macedonia,2012-11-01,71.8
+1835,North Macedonia,2012-12-01,78.3
+1836,North Macedonia,2013-01-01,73.6
+1837,North Macedonia,2013-02-01,73.4
+1838,North Macedonia,2013-03-01,84.6
+1839,North Macedonia,2013-04-01,93.4
+1840,North Macedonia,2013-05-01,81.3
+1841,North Macedonia,2013-06-01,77.8
+1842,North Macedonia,2013-07-01,75.8
+1843,North Macedonia,2013-08-01,72.4
+1844,North Macedonia,2013-09-01,74.1
+1845,North Macedonia,2013-10-01,82.4
+1846,North Macedonia,2013-11-01,80.6
+1847,North Macedonia,2013-12-01,79.3
+1848,North Macedonia,2014-01-01,72.8
+1849,North Macedonia,2014-02-01,76.1
+1850,North Macedonia,2014-03-01,76.2
+1851,North Macedonia,2014-04-01,79.5
+1852,North Macedonia,2014-05-01,87.3
+1853,North Macedonia,2014-06-01,84.8
+1854,North Macedonia,2014-07-01,91.2
+1855,North Macedonia,2014-08-01,79.0
+1856,North Macedonia,2014-09-01,89.2
+1857,North Macedonia,2014-10-01,89.3
+1858,North Macedonia,2014-11-01,101.2
+1859,North Macedonia,2014-12-01,88.7
+1860,North Macedonia,2015-01-01,101.6
+1861,North Macedonia,2015-02-01,103.7
+1862,North Macedonia,2015-03-01,91.2
+1863,North Macedonia,2015-04-01,96.0
+1864,North Macedonia,2015-05-01,97.2
+1865,North Macedonia,2015-06-01,110.1
+1866,North Macedonia,2015-07-01,106.9
+1867,North Macedonia,2015-08-01,93.9
+1868,North Macedonia,2015-09-01,93.2
+1869,North Macedonia,2015-10-01,104.4
+1870,North Macedonia,2015-11-01,100.4
+1871,North Macedonia,2015-12-01,98.8
+1872,North Macedonia,2016-01-01,104.7
+1873,North Macedonia,2016-02-01,93.1
+1874,North Macedonia,2016-03-01,94.8
+1875,North Macedonia,2016-04-01,95.3
+1876,North Macedonia,2016-05-01,89.3
+1877,North Macedonia,2016-06-01,97.3
+1878,North Macedonia,2016-07-01,101.4
+1879,North Macedonia,2016-08-01,104.4
+1880,North Macedonia,2016-09-01,103.5
+1881,North Macedonia,2016-10-01,95.9
+1882,North Macedonia,2016-11-01,87.8
+1883,North Macedonia,2016-12-01,92.0
+1884,North Macedonia,2017-01-01,85.0
+1885,North Macedonia,2017-02-01,95.8
+1886,North Macedonia,2017-03-01,94.0
+1887,North Macedonia,2017-04-01,88.5
+1888,North Macedonia,2017-05-01,85.3
+1889,North Macedonia,2017-06-01,81.1
+1890,North Macedonia,2017-07-01,92.0
+1891,North Macedonia,2017-08-01,102.8
+1892,North Macedonia,2017-09-01,101.1
+1893,North Macedonia,2017-10-01,95.5
+1894,North Macedonia,2017-11-01,99.6
+1895,North Macedonia,2017-12-01,86.2
+1896,North Macedonia,2018-01-01,98.6
+1897,North Macedonia,2018-02-01,110.0
+1898,North Macedonia,2018-03-01,103.9
+1899,North Macedonia,2018-04-01,102.3
+1900,North Macedonia,2018-05-01,113.9
+1901,North Macedonia,2018-06-01,93.0
+1902,North Macedonia,2018-07-01,93.1
+1903,North Macedonia,2018-08-01,98.3
+1904,North Macedonia,2018-09-01,96.7
+1905,North Macedonia,2018-10-01,99.8
+1906,North Macedonia,2018-11-01,98.4
+1907,North Macedonia,2018-12-01,101.6
+1908,North Macedonia,2019-01-01,107.1
+1909,North Macedonia,2019-02-01,116.1
+1910,North Macedonia,2019-03-01,124.5
+1911,North Macedonia,2019-04-01,113.0
+1912,North Macedonia,2019-05-01,111.3
+1913,North Macedonia,2019-06-01,
+1914,North Macedonia,2019-07-01,
+1915,North Macedonia,2019-08-01,
+1916,North Macedonia,2019-09-01,
+1917,North Macedonia,2019-10-01,
+1918,North Macedonia,2019-11-01,
+1919,North Macedonia,2019-12-01,
+2040,Portugal,2010-01-01,154.5
+2041,Portugal,2010-02-01,148.5
+2042,Portugal,2010-03-01,147.7
+2043,Portugal,2010-04-01,141.7
+2044,Portugal,2010-05-01,144.2
+2045,Portugal,2010-06-01,171.6
+2046,Portugal,2010-07-01,141.3
+2047,Portugal,2010-08-01,138.2
+2048,Portugal,2010-09-01,141.0
+2049,Portugal,2010-10-01,143.2
+2050,Portugal,2010-11-01,152.4
+2051,Portugal,2010-12-01,168.7
+2052,Portugal,2011-01-01,127.6
+2053,Portugal,2011-02-01,127.6
+2054,Portugal,2011-03-01,127.6
+2055,Portugal,2011-04-01,123.3
+2056,Portugal,2011-05-01,114.0
+2057,Portugal,2011-06-01,110.9
+2058,Portugal,2011-07-01,116.6
+2059,Portugal,2011-08-01,107.8
+2060,Portugal,2011-09-01,104.8
+2061,Portugal,2011-10-01,96.0
+2062,Portugal,2011-11-01,96.2
+2063,Portugal,2011-12-01,101.4
+2064,Portugal,2012-01-01,91.6
+2065,Portugal,2012-02-01,89.0
+2066,Portugal,2012-03-01,84.4
+2067,Portugal,2012-04-01,82.2
+2068,Portugal,2012-05-01,82.8
+2069,Portugal,2012-06-01,76.2
+2070,Portugal,2012-07-01,79.3
+2071,Portugal,2012-08-01,79.5
+2072,Portugal,2012-09-01,79.8
+2073,Portugal,2012-10-01,80.1
+2074,Portugal,2012-11-01,77.8
+2075,Portugal,2012-12-01,71.6
+2076,Portugal,2013-01-01,78.4
+2077,Portugal,2013-02-01,75.6
+2078,Portugal,2013-03-01,78.0
+2079,Portugal,2013-04-01,79.3
+2080,Portugal,2013-05-01,78.7
+2081,Portugal,2013-06-01,80.2
+2082,Portugal,2013-07-01,79.7
+2083,Portugal,2013-08-01,83.2
+2084,Portugal,2013-09-01,83.1
+2085,Portugal,2013-10-01,83.9
+2086,Portugal,2013-11-01,85.3
+2087,Portugal,2013-12-01,90.4
+2088,Portugal,2014-01-01,90.1
+2089,Portugal,2014-02-01,90.3
+2090,Portugal,2014-03-01,89.8
+2091,Portugal,2014-04-01,90.2
+2092,Portugal,2014-05-01,90.6
+2093,Portugal,2014-06-01,91.4
+2094,Portugal,2014-07-01,91.9
+2095,Portugal,2014-08-01,91.8
+2096,Portugal,2014-09-01,89.2
+2097,Portugal,2014-10-01,94.4
+2098,Portugal,2014-11-01,92.5
+2099,Portugal,2014-12-01,93.9
+2100,Portugal,2015-01-01,96.2
+2101,Portugal,2015-02-01,97.1
+2102,Portugal,2015-03-01,97.8
+2103,Portugal,2015-04-01,95.9
+2104,Portugal,2015-05-01,101.1
+2105,Portugal,2015-06-01,104.1
+2106,Portugal,2015-07-01,105.5
+2107,Portugal,2015-08-01,96.8
+2108,Portugal,2015-09-01,103.2
+2109,Portugal,2015-10-01,101.4
+2110,Portugal,2015-11-01,102.3
+2111,Portugal,2015-12-01,98.6
+2112,Portugal,2016-01-01,108.6
+2113,Portugal,2016-02-01,114.2
+2114,Portugal,2016-03-01,111.9
+2115,Portugal,2016-04-01,114.0
+2116,Portugal,2016-05-01,113.4
+2117,Portugal,2016-06-01,111.9
+2118,Portugal,2016-07-01,113.4
+2119,Portugal,2016-08-01,114.9
+2120,Portugal,2016-09-01,116.9
+2121,Portugal,2016-10-01,119.8
+2122,Portugal,2016-11-01,122.8
+2123,Portugal,2016-12-01,120.1
+2124,Portugal,2017-01-01,114.3
+2125,Portugal,2017-02-01,121.1
+2126,Portugal,2017-03-01,121.9
+2127,Portugal,2017-04-01,123.5
+2128,Portugal,2017-05-01,121.7
+2129,Portugal,2017-06-01,126.4
+2130,Portugal,2017-07-01,124.0
+2131,Portugal,2017-08-01,128.0
+2132,Portugal,2017-09-01,127.8
+2133,Portugal,2017-10-01,131.0
+2134,Portugal,2017-11-01,133.7
+2135,Portugal,2017-12-01,135.3
+2136,Portugal,2018-01-01,132.6
+2137,Portugal,2018-02-01,128.5
+2138,Portugal,2018-03-01,130.7
+2139,Portugal,2018-04-01,142.6
+2140,Portugal,2018-05-01,141.1
+2141,Portugal,2018-06-01,132.3
+2142,Portugal,2018-07-01,139.4
+2143,Portugal,2018-08-01,143.2
+2144,Portugal,2018-09-01,133.6
+2145,Portugal,2018-10-01,131.3
+2146,Portugal,2018-11-01,131.3
+2147,Portugal,2018-12-01,127.9
+2148,Portugal,2019-01-01,130.1
+2149,Portugal,2019-02-01,133.8
+2150,Portugal,2019-03-01,132.0
+2151,Portugal,2019-04-01,126.2
+2152,Portugal,2019-05-01,131.3
+2153,Portugal,2019-06-01,137.4
+2154,Portugal,2019-07-01,131.5
+2155,Portugal,2019-08-01,136.2
+2156,Portugal,2019-09-01,136.9
+2157,Portugal,2019-10-01,139.3
+2158,Portugal,2019-11-01,139.6
+2159,Portugal,2019-12-01,130.4
+2160,Romania,2010-01-01,76.2
+2161,Romania,2010-02-01,75.2
+2162,Romania,2010-03-01,83.5
+2163,Romania,2010-04-01,81.6
+2164,Romania,2010-05-01,81.3
+2165,Romania,2010-06-01,89.5
+2166,Romania,2010-07-01,75.4
+2167,Romania,2010-08-01,79.6
+2168,Romania,2010-09-01,82.5
+2169,Romania,2010-10-01,84.3
+2170,Romania,2010-11-01,89.8
+2171,Romania,2010-12-01,85.8
+2172,Romania,2011-01-01,86.8
+2173,Romania,2011-02-01,88.2
+2174,Romania,2011-03-01,86.6
+2175,Romania,2011-04-01,87.1
+2176,Romania,2011-05-01,84.8
+2177,Romania,2011-06-01,83.0
+2178,Romania,2011-07-01,88.7
+2179,Romania,2011-08-01,89.1
+2180,Romania,2011-09-01,90.1
+2181,Romania,2011-10-01,94.2
+2182,Romania,2011-11-01,93.2
+2183,Romania,2011-12-01,85.1
+2184,Romania,2012-01-01,88.1
+2185,Romania,2012-02-01,82.2
+2186,Romania,2012-03-01,86.2
+2187,Romania,2012-04-01,85.7
+2188,Romania,2012-05-01,90.5
+2189,Romania,2012-06-01,87.5
+2190,Romania,2012-07-01,85.2
+2191,Romania,2012-08-01,86.2
+2192,Romania,2012-09-01,85.8
+2193,Romania,2012-10-01,87.9
+2194,Romania,2012-11-01,89.2
+2195,Romania,2012-12-01,82.4
+2196,Romania,2013-01-01,90.5
+2197,Romania,2013-02-01,91.3
+2198,Romania,2013-03-01,85.5
+2199,Romania,2013-04-01,89.6
+2200,Romania,2013-05-01,81.0
+2201,Romania,2013-06-01,86.3
+2202,Romania,2013-07-01,87.5
+2203,Romania,2013-08-01,88.5
+2204,Romania,2013-09-01,91.4
+2205,Romania,2013-10-01,92.8
+2206,Romania,2013-11-01,93.8
+2207,Romania,2013-12-01,97.6
+2208,Romania,2014-01-01,87.1
+2209,Romania,2014-02-01,91.9
+2210,Romania,2014-03-01,88.3
+2211,Romania,2014-04-01,91.5
+2212,Romania,2014-05-01,88.1
+2213,Romania,2014-06-01,89.5
+2214,Romania,2014-07-01,91.9
+2215,Romania,2014-08-01,90.2
+2216,Romania,2014-09-01,91.7
+2217,Romania,2014-10-01,89.8
+2218,Romania,2014-11-01,93.9
+2219,Romania,2014-12-01,90.3
+2220,Romania,2015-01-01,94.5
+2221,Romania,2015-02-01,97.9
+2222,Romania,2015-03-01,96.2
+2223,Romania,2015-04-01,97.5
+2224,Romania,2015-05-01,102.6
+2225,Romania,2015-06-01,98.4
+2226,Romania,2015-07-01,100.6
+2227,Romania,2015-08-01,99.5
+2228,Romania,2015-09-01,102.9
+2229,Romania,2015-10-01,104.4
+2230,Romania,2015-11-01,109.1
+2231,Romania,2015-12-01,106.8
+2232,Romania,2016-01-01,109.1
+2233,Romania,2016-02-01,107.9
+2234,Romania,2016-03-01,107.5
+2235,Romania,2016-04-01,115.0
+2236,Romania,2016-05-01,110.9
+2237,Romania,2016-06-01,118.6
+2238,Romania,2016-07-01,121.0
+2239,Romania,2016-08-01,117.4
+2240,Romania,2016-09-01,125.5
+2241,Romania,2016-10-01,124.1
+2242,Romania,2016-11-01,122.8
+2243,Romania,2016-12-01,126.3
+2244,Romania,2017-01-01,120.6
+2245,Romania,2017-02-01,128.6
+2246,Romania,2017-03-01,131.8
+2247,Romania,2017-04-01,125.5
+2248,Romania,2017-05-01,132.9
+2249,Romania,2017-06-01,135.1
+2250,Romania,2017-07-01,131.0
+2251,Romania,2017-08-01,133.2
+2252,Romania,2017-09-01,140.1
+2253,Romania,2017-10-01,138.1
+2254,Romania,2017-11-01,136.8
+2255,Romania,2017-12-01,144.2
+2256,Romania,2018-01-01,139.1
+2257,Romania,2018-02-01,140.0
+2258,Romania,2018-03-01,140.0
+2259,Romania,2018-04-01,151.7
+2260,Romania,2018-05-01,152.8
+2261,Romania,2018-06-01,150.1
+2262,Romania,2018-07-01,146.6
+2263,Romania,2018-08-01,137.6
+2264,Romania,2018-09-01,139.8
+2265,Romania,2018-10-01,143.4
+2266,Romania,2018-11-01,149.1
+2267,Romania,2018-12-01,151.6
+2268,Romania,2019-01-01,150.0
+2269,Romania,2019-02-01,150.6
+2270,Romania,2019-03-01,155.5
+2271,Romania,2019-04-01,161.0
+2272,Romania,2019-05-01,168.3
+2273,Romania,2019-06-01,167.4
+2274,Romania,2019-07-01,162.0
+2275,Romania,2019-08-01,156.3
+2276,Romania,2019-09-01,161.9
+2277,Romania,2019-10-01,164.3
+2278,Romania,2019-11-01,166.2
+2279,Romania,2019-12-01,159.7
+2520,Slovakia,2010-01-01,72.0
+2521,Slovakia,2010-02-01,71.9
+2522,Slovakia,2010-03-01,70.7
+2523,Slovakia,2010-04-01,69.8
+2524,Slovakia,2010-05-01,71.0
+2525,Slovakia,2010-06-01,73.7
+2526,Slovakia,2010-07-01,75.5
+2527,Slovakia,2010-08-01,79.2
+2528,Slovakia,2010-09-01,78.2
+2529,Slovakia,2010-10-01,81.7
+2530,Slovakia,2010-11-01,82.9
+2531,Slovakia,2010-12-01,79.0
+2532,Slovakia,2011-01-01,77.7
+2533,Slovakia,2011-02-01,72.0
+2534,Slovakia,2011-03-01,68.7
+2535,Slovakia,2011-04-01,73.9
+2536,Slovakia,2011-05-01,71.0
+2537,Slovakia,2011-06-01,73.6
+2538,Slovakia,2011-07-01,77.6
+2539,Slovakia,2011-08-01,78.5
+2540,Slovakia,2011-09-01,79.7
+2541,Slovakia,2011-10-01,81.3
+2542,Slovakia,2011-11-01,83.2
+2543,Slovakia,2011-12-01,81.2
+2544,Slovakia,2012-01-01,82.1
+2545,Slovakia,2012-02-01,80.0
+2546,Slovakia,2012-03-01,79.4
+2547,Slovakia,2012-04-01,76.8
+2548,Slovakia,2012-05-01,76.9
+2549,Slovakia,2012-06-01,79.2
+2550,Slovakia,2012-07-01,83.5
+2551,Slovakia,2012-08-01,80.5
+2552,Slovakia,2012-09-01,84.1
+2553,Slovakia,2012-10-01,77.7
+2554,Slovakia,2012-11-01,79.8
+2555,Slovakia,2012-12-01,80.7
+2556,Slovakia,2013-01-01,79.1
+2557,Slovakia,2013-02-01,82.2
+2558,Slovakia,2013-03-01,85.0
+2559,Slovakia,2013-04-01,85.0
+2560,Slovakia,2013-05-01,87.9
+2561,Slovakia,2013-06-01,87.3
+2562,Slovakia,2013-07-01,83.2
+2563,Slovakia,2013-08-01,86.9
+2564,Slovakia,2013-09-01,85.6
+2565,Slovakia,2013-10-01,87.6
+2566,Slovakia,2013-11-01,93.0
+2567,Slovakia,2013-12-01,94.3
+2568,Slovakia,2014-01-01,88.3
+2569,Slovakia,2014-02-01,88.4
+2570,Slovakia,2014-03-01,90.1
+2571,Slovakia,2014-04-01,88.2
+2572,Slovakia,2014-05-01,86.7
+2573,Slovakia,2014-06-01,89.7
+2574,Slovakia,2014-07-01,89.8
+2575,Slovakia,2014-08-01,90.4
+2576,Slovakia,2014-09-01,87.8
+2577,Slovakia,2014-10-01,91.5
+2578,Slovakia,2014-11-01,87.0
+2579,Slovakia,2014-12-01,91.3
+2580,Slovakia,2015-01-01,91.9
+2581,Slovakia,2015-02-01,96.0
+2582,Slovakia,2015-03-01,98.9
+2583,Slovakia,2015-04-01,97.3
+2584,Slovakia,2015-05-01,98.9
+2585,Slovakia,2015-06-01,96.4
+2586,Slovakia,2015-07-01,99.6
+2587,Slovakia,2015-08-01,100.6
+2588,Slovakia,2015-09-01,106.0
+2589,Slovakia,2015-10-01,104.9
+2590,Slovakia,2015-11-01,104.9
+2591,Slovakia,2015-12-01,105.6
+2592,Slovakia,2016-01-01,110.0
+2593,Slovakia,2016-02-01,109.9
+2594,Slovakia,2016-03-01,111.9
+2595,Slovakia,2016-04-01,116.2
+2596,Slovakia,2016-05-01,113.7
+2597,Slovakia,2016-06-01,114.5
+2598,Slovakia,2016-07-01,111.7
+2599,Slovakia,2016-08-01,116.4
+2600,Slovakia,2016-09-01,118.2
+2601,Slovakia,2016-10-01,116.6
+2602,Slovakia,2016-11-01,115.2
+2603,Slovakia,2016-12-01,116.7
+2604,Slovakia,2017-01-01,120.7
+2605,Slovakia,2017-02-01,122.9
+2606,Slovakia,2017-03-01,126.4
+2607,Slovakia,2017-04-01,126.7
+2608,Slovakia,2017-05-01,130.5
+2609,Slovakia,2017-06-01,131.2
+2610,Slovakia,2017-07-01,127.9
+2611,Slovakia,2017-08-01,130.6
+2612,Slovakia,2017-09-01,137.3
+2613,Slovakia,2017-10-01,135.8
+2614,Slovakia,2017-11-01,133.2
+2615,Slovakia,2017-12-01,138.0
+2616,Slovakia,2018-01-01,137.0
+2617,Slovakia,2018-02-01,136.9
+2618,Slovakia,2018-03-01,143.5
+2619,Slovakia,2018-04-01,139.1
+2620,Slovakia,2018-05-01,141.2
+2621,Slovakia,2018-06-01,142.8
+2622,Slovakia,2018-07-01,141.6
+2623,Slovakia,2018-08-01,138.1
+2624,Slovakia,2018-09-01,129.7
+2625,Slovakia,2018-10-01,136.8
+2626,Slovakia,2018-11-01,139.9
+2627,Slovakia,2018-12-01,134.8
+2628,Slovakia,2019-01-01,142.7
+2629,Slovakia,2019-02-01,144.0
+2630,Slovakia,2019-03-01,156.4
+2631,Slovakia,2019-04-01,152.8
+2632,Slovakia,2019-05-01,152.7
+2633,Slovakia,2019-06-01,147.2
+2634,Slovakia,2019-07-01,150.3
+2635,Slovakia,2019-08-01,147.5
+2636,Slovakia,2019-09-01,147.2
+2637,Slovakia,2019-10-01,147.1
+2638,Slovakia,2019-11-01,147.1
+2639,Slovakia,2019-12-01,138.4
+2400,Slovenia,2010-01-01,82.0
+2401,Slovenia,2010-02-01,80.9
+2402,Slovenia,2010-03-01,84.8
+2403,Slovenia,2010-04-01,83.1
+2404,Slovenia,2010-05-01,83.1
+2405,Slovenia,2010-06-01,85.8
+2406,Slovenia,2010-07-01,83.7
+2407,Slovenia,2010-08-01,85.3
+2408,Slovenia,2010-09-01,87.1
+2409,Slovenia,2010-10-01,86.5
+2410,Slovenia,2010-11-01,88.8
+2411,Slovenia,2010-12-01,85.5
+2412,Slovenia,2011-01-01,89.6
+2413,Slovenia,2011-02-01,93.3
+2414,Slovenia,2011-03-01,88.1
+2415,Slovenia,2011-04-01,89.9
+2416,Slovenia,2011-05-01,91.2
+2417,Slovenia,2011-06-01,86.6
+2418,Slovenia,2011-07-01,88.5
+2419,Slovenia,2011-08-01,91.2
+2420,Slovenia,2011-09-01,90.0
+2421,Slovenia,2011-10-01,89.5
+2422,Slovenia,2011-11-01,86.7
+2423,Slovenia,2011-12-01,86.1
+2424,Slovenia,2012-01-01,87.6
+2425,Slovenia,2012-02-01,83.8
+2426,Slovenia,2012-03-01,86.0
+2427,Slovenia,2012-04-01,83.4
+2428,Slovenia,2012-05-01,81.5
+2429,Slovenia,2012-06-01,84.0
+2430,Slovenia,2012-07-01,84.0
+2431,Slovenia,2012-08-01,81.2
+2432,Slovenia,2012-09-01,78.2
+2433,Slovenia,2012-10-01,80.6
+2434,Slovenia,2012-11-01,80.4
+2435,Slovenia,2012-12-01,81.0
+2436,Slovenia,2013-01-01,80.5
+2437,Slovenia,2013-02-01,80.6
+2438,Slovenia,2013-03-01,80.3
+2439,Slovenia,2013-04-01,84.7
+2440,Slovenia,2013-05-01,85.4
+2441,Slovenia,2013-06-01,96.1
+2442,Slovenia,2013-07-01,78.4
+2443,Slovenia,2013-08-01,82.9
+2444,Slovenia,2013-09-01,85.1
+2445,Slovenia,2013-10-01,86.3
+2446,Slovenia,2013-11-01,89.5
+2447,Slovenia,2013-12-01,88.4
+2448,Slovenia,2014-01-01,86.6
+2449,Slovenia,2014-02-01,84.0
+2450,Slovenia,2014-03-01,88.0
+2451,Slovenia,2014-04-01,86.5
+2452,Slovenia,2014-05-01,84.6
+2453,Slovenia,2014-06-01,89.0
+2454,Slovenia,2014-07-01,91.9
+2455,Slovenia,2014-08-01,89.7
+2456,Slovenia,2014-09-01,92.5
+2457,Slovenia,2014-10-01,93.7
+2458,Slovenia,2014-11-01,92.2
+2459,Slovenia,2014-12-01,95.9
+2460,Slovenia,2015-01-01,95.7
+2461,Slovenia,2015-02-01,91.9
+2462,Slovenia,2015-03-01,96.2
+2463,Slovenia,2015-04-01,94.7
+2464,Slovenia,2015-05-01,97.1
+2465,Slovenia,2015-06-01,103.1
+2466,Slovenia,2015-07-01,100.7
+2467,Slovenia,2015-08-01,99.1
+2468,Slovenia,2015-09-01,103.4
+2469,Slovenia,2015-10-01,101.1
+2470,Slovenia,2015-11-01,104.2
+2471,Slovenia,2015-12-01,103.8
+2472,Slovenia,2016-01-01,111.2
+2473,Slovenia,2016-02-01,114.7
+2474,Slovenia,2016-03-01,111.8
+2475,Slovenia,2016-04-01,115.4
+2476,Slovenia,2016-05-01,117.8
+2477,Slovenia,2016-06-01,114.7
+2478,Slovenia,2016-07-01,118.3
+2479,Slovenia,2016-08-01,118.5
+2480,Slovenia,2016-09-01,121.8
+2481,Slovenia,2016-10-01,123.1
+2482,Slovenia,2016-11-01,125.5
+2483,Slovenia,2016-12-01,128.8
+2484,Slovenia,2017-01-01,122.6
+2485,Slovenia,2017-02-01,128.0
+2486,Slovenia,2017-03-01,128.6
+2487,Slovenia,2017-04-01,132.1
+2488,Slovenia,2017-05-01,130.8
+2489,Slovenia,2017-06-01,129.4
+2490,Slovenia,2017-07-01,128.6
+2491,Slovenia,2017-08-01,135.7
+2492,Slovenia,2017-09-01,136.4
+2493,Slovenia,2017-10-01,141.7
+2494,Slovenia,2017-11-01,140.8
+2495,Slovenia,2017-12-01,145.5
+2496,Slovenia,2018-01-01,139.4
+2497,Slovenia,2018-02-01,141.5
+2498,Slovenia,2018-03-01,140.9
+2499,Slovenia,2018-04-01,146.4
+2500,Slovenia,2018-05-01,144.6
+2501,Slovenia,2018-06-01,149.7
+2502,Slovenia,2018-07-01,151.9
+2503,Slovenia,2018-08-01,155.2
+2504,Slovenia,2018-09-01,141.4
+2505,Slovenia,2018-10-01,141.6
+2506,Slovenia,2018-11-01,144.6
+2507,Slovenia,2018-12-01,144.2
+2508,Slovenia,2019-01-01,147.5
+2509,Slovenia,2019-02-01,154.2
+2510,Slovenia,2019-03-01,152.2
+2511,Slovenia,2019-04-01,146.0
+2512,Slovenia,2019-05-01,152.4
+2513,Slovenia,2019-06-01,147.3
+2514,Slovenia,2019-07-01,147.0
+2515,Slovenia,2019-08-01,143.8
+2516,Slovenia,2019-09-01,149.2
+2517,Slovenia,2019-10-01,147.7
+2518,Slovenia,2019-11-01,147.8
+2519,Slovenia,2019-12-01,145.9
+600,Spain,2010-01-01,111.1
+601,Spain,2010-02-01,113.5
+602,Spain,2010-03-01,115.9
+603,Spain,2010-04-01,118.6
+604,Spain,2010-05-01,119.7
+605,Spain,2010-06-01,125.7
+606,Spain,2010-07-01,87.0
+607,Spain,2010-08-01,89.8
+608,Spain,2010-09-01,94.3
+609,Spain,2010-10-01,91.5
+610,Spain,2010-11-01,94.6
+611,Spain,2010-12-01,95.7
+612,Spain,2011-01-01,99.2
+613,Spain,2011-02-01,99.2
+614,Spain,2011-03-01,99.3
+615,Spain,2011-04-01,96.8
+616,Spain,2011-05-01,98.7
+617,Spain,2011-06-01,95.9
+618,Spain,2011-07-01,93.1
+619,Spain,2011-08-01,94.2
+620,Spain,2011-09-01,92.4
+621,Spain,2011-10-01,91.1
+622,Spain,2011-11-01,91.9
+623,Spain,2011-12-01,87.7
+624,Spain,2012-01-01,89.3
+625,Spain,2012-02-01,86.9
+626,Spain,2012-03-01,86.8
+627,Spain,2012-04-01,80.7
+628,Spain,2012-05-01,81.6
+629,Spain,2012-06-01,77.1
+630,Spain,2012-07-01,78.8
+631,Spain,2012-08-01,92.4
+632,Spain,2012-09-01,66.8
+633,Spain,2012-10-01,73.2
+634,Spain,2012-11-01,73.0
+635,Spain,2012-12-01,74.4
+636,Spain,2013-01-01,73.0
+637,Spain,2013-02-01,72.6
+638,Spain,2013-03-01,72.8
+639,Spain,2013-04-01,75.0
+640,Spain,2013-05-01,75.2
+641,Spain,2013-06-01,75.1
+642,Spain,2013-07-01,77.3
+643,Spain,2013-08-01,77.2
+644,Spain,2013-09-01,76.4
+645,Spain,2013-10-01,80.4
+646,Spain,2013-11-01,78.1
+647,Spain,2013-12-01,78.7
+648,Spain,2014-01-01,78.6
+649,Spain,2014-02-01,81.1
+650,Spain,2014-03-01,79.1
+651,Spain,2014-04-01,83.4
+652,Spain,2014-05-01,82.2
+653,Spain,2014-06-01,84.1
+654,Spain,2014-07-01,84.6
+655,Spain,2014-08-01,85.7
+656,Spain,2014-09-01,86.6
+657,Spain,2014-10-01,90.2
+658,Spain,2014-11-01,90.0
+659,Spain,2014-12-01,91.6
+660,Spain,2015-01-01,93.3
+661,Spain,2015-02-01,96.1
+662,Spain,2015-03-01,99.4
+663,Spain,2015-04-01,97.8
+664,Spain,2015-05-01,97.9
+665,Spain,2015-06-01,101.8
+666,Spain,2015-07-01,101.3
+667,Spain,2015-08-01,101.3
+668,Spain,2015-09-01,102.8
+669,Spain,2015-10-01,100.0
+670,Spain,2015-11-01,103.5
+671,Spain,2015-12-01,104.8
+672,Spain,2016-01-01,106.6
+673,Spain,2016-02-01,105.7
+674,Spain,2016-03-01,108.3
+675,Spain,2016-04-01,108.2
+676,Spain,2016-05-01,110.4
+677,Spain,2016-06-01,109.9
+678,Spain,2016-07-01,110.7
+679,Spain,2016-08-01,113.2
+680,Spain,2016-09-01,114.5
+681,Spain,2016-10-01,113.1
+682,Spain,2016-11-01,115.5
+683,Spain,2016-12-01,116.0
+684,Spain,2017-01-01,113.8
+685,Spain,2017-02-01,116.8
+686,Spain,2017-03-01,119.2
+687,Spain,2017-04-01,118.5
+688,Spain,2017-05-01,122.1
+689,Spain,2017-06-01,122.7
+690,Spain,2017-07-01,119.5
+691,Spain,2017-08-01,126.4
+692,Spain,2017-09-01,122.7
+693,Spain,2017-10-01,127.4
+694,Spain,2017-11-01,129.0
+695,Spain,2017-12-01,130.2
+696,Spain,2018-01-01,129.5
+697,Spain,2018-02-01,131.7
+698,Spain,2018-03-01,128.7
+699,Spain,2018-04-01,128.7
+700,Spain,2018-05-01,131.1
+701,Spain,2018-06-01,130.8
+702,Spain,2018-07-01,136.3
+703,Spain,2018-08-01,160.8
+704,Spain,2018-09-01,129.0
+705,Spain,2018-10-01,125.9
+706,Spain,2018-11-01,130.0
+707,Spain,2018-12-01,127.6
+708,Spain,2019-01-01,130.7
+709,Spain,2019-02-01,130.2
+710,Spain,2019-03-01,128.7
+711,Spain,2019-04-01,133.3
+712,Spain,2019-05-01,130.2
+713,Spain,2019-06-01,129.5
+714,Spain,2019-07-01,127.6
+715,Spain,2019-08-01,129.9
+716,Spain,2019-09-01,133.2
+717,Spain,2019-10-01,135.8
+718,Spain,2019-11-01,130.8
+719,Spain,2019-12-01,133.0
+2280,Sweden,2010-01-01,68.6
+2281,Sweden,2010-02-01,70.4
+2282,Sweden,2010-03-01,76.1
+2283,Sweden,2010-04-01,75.4
+2284,Sweden,2010-05-01,76.4
+2285,Sweden,2010-06-01,79.2
+2286,Sweden,2010-07-01,79.9
+2287,Sweden,2010-08-01,78.2
+2288,Sweden,2010-09-01,80.9
+2289,Sweden,2010-10-01,83.9
+2290,Sweden,2010-11-01,82.7
+2291,Sweden,2010-12-01,82.7
+2292,Sweden,2011-01-01,86.3
+2293,Sweden,2011-02-01,85.2
+2294,Sweden,2011-03-01,84.4
+2295,Sweden,2011-04-01,87.9
+2296,Sweden,2011-05-01,92.0
+2297,Sweden,2011-06-01,81.1
+2298,Sweden,2011-07-01,86.9
+2299,Sweden,2011-08-01,84.8
+2300,Sweden,2011-09-01,86.1
+2301,Sweden,2011-10-01,85.7
+2302,Sweden,2011-11-01,85.7
+2303,Sweden,2011-12-01,86.2
+2304,Sweden,2012-01-01,83.7
+2305,Sweden,2012-02-01,84.5
+2306,Sweden,2012-03-01,83.1
+2307,Sweden,2012-04-01,80.4
+2308,Sweden,2012-05-01,82.3
+2309,Sweden,2012-06-01,80.4
+2310,Sweden,2012-07-01,77.7
+2311,Sweden,2012-08-01,82.3
+2312,Sweden,2012-09-01,82.6
+2313,Sweden,2012-10-01,81.6
+2314,Sweden,2012-11-01,82.3
+2315,Sweden,2012-12-01,80.9
+2316,Sweden,2013-01-01,82.2
+2317,Sweden,2013-02-01,79.2
+2318,Sweden,2013-03-01,80.9
+2319,Sweden,2013-04-01,78.9
+2320,Sweden,2013-05-01,79.8
+2321,Sweden,2013-06-01,78.2
+2322,Sweden,2013-07-01,81.4
+2323,Sweden,2013-08-01,85.9
+2324,Sweden,2013-09-01,83.9
+2325,Sweden,2013-10-01,85.8
+2326,Sweden,2013-11-01,85.6
+2327,Sweden,2013-12-01,87.2
+2328,Sweden,2014-01-01,85.1
+2329,Sweden,2014-02-01,87.8
+2330,Sweden,2014-03-01,87.3
+2331,Sweden,2014-04-01,90.6
+2332,Sweden,2014-05-01,88.4
+2333,Sweden,2014-06-01,87.8
+2334,Sweden,2014-07-01,87.6
+2335,Sweden,2014-08-01,90.0
+2336,Sweden,2014-09-01,88.2
+2337,Sweden,2014-10-01,92.0
+2338,Sweden,2014-11-01,94.3
+2339,Sweden,2014-12-01,92.4
+2340,Sweden,2015-01-01,94.0
+2341,Sweden,2015-02-01,95.5
+2342,Sweden,2015-03-01,96.6
+2343,Sweden,2015-04-01,95.1
+2344,Sweden,2015-05-01,96.2
+2345,Sweden,2015-06-01,100.2
+2346,Sweden,2015-07-01,101.0
+2347,Sweden,2015-08-01,101.1
+2348,Sweden,2015-09-01,103.1
+2349,Sweden,2015-10-01,104.6
+2350,Sweden,2015-11-01,106.0
+2351,Sweden,2015-12-01,105.6
+2352,Sweden,2016-01-01,105.1
+2353,Sweden,2016-02-01,115.2
+2354,Sweden,2016-03-01,108.2
+2355,Sweden,2016-04-01,114.2
+2356,Sweden,2016-05-01,114.8
+2357,Sweden,2016-06-01,111.6
+2358,Sweden,2016-07-01,111.9
+2359,Sweden,2016-08-01,109.2
+2360,Sweden,2016-09-01,113.9
+2361,Sweden,2016-10-01,112.9
+2362,Sweden,2016-11-01,114.4
+2363,Sweden,2016-12-01,121.1
+2364,Sweden,2017-01-01,121.3
+2365,Sweden,2017-02-01,118.8
+2366,Sweden,2017-03-01,121.2
+2367,Sweden,2017-04-01,115.1
+2368,Sweden,2017-05-01,117.7
+2369,Sweden,2017-06-01,118.7
+2370,Sweden,2017-07-01,121.3
+2371,Sweden,2017-08-01,119.4
+2372,Sweden,2017-09-01,120.9
+2373,Sweden,2017-10-01,116.2
+2374,Sweden,2017-11-01,117.6
+2375,Sweden,2017-12-01,116.9
+2376,Sweden,2018-01-01,124.8
+2377,Sweden,2018-02-01,123.7
+2378,Sweden,2018-03-01,126.6
+2379,Sweden,2018-04-01,129.6
+2380,Sweden,2018-05-01,134.6
+2381,Sweden,2018-06-01,148.0
+2382,Sweden,2018-07-01,107.5
+2383,Sweden,2018-08-01,114.3
+2384,Sweden,2018-09-01,110.1
+2385,Sweden,2018-10-01,112.3
+2386,Sweden,2018-11-01,115.0
+2387,Sweden,2018-12-01,107.3
+2388,Sweden,2019-01-01,115.6
+2389,Sweden,2019-02-01,118.9
+2390,Sweden,2019-03-01,119.9
+2391,Sweden,2019-04-01,121.9
+2392,Sweden,2019-05-01,119.1
+2393,Sweden,2019-06-01,119.1
+2394,Sweden,2019-07-01,120.5
+2395,Sweden,2019-08-01,122.7
+2396,Sweden,2019-09-01,125.0
+2397,Sweden,2019-10-01,129.4
+2398,Sweden,2019-11-01,128.5
+2399,Sweden,2019-12-01,139.8
+2640,Turkey,2010-01-01,31.1
+2641,Turkey,2010-02-01,31.9
+2642,Turkey,2010-03-01,33.4
+2643,Turkey,2010-04-01,36.1
+2644,Turkey,2010-05-01,36.3
+2645,Turkey,2010-06-01,35.9
+2646,Turkey,2010-07-01,39.1
+2647,Turkey,2010-08-01,42.9
+2648,Turkey,2010-09-01,42.6
+2649,Turkey,2010-10-01,44.7
+2650,Turkey,2010-11-01,48.1
+2651,Turkey,2010-12-01,47.7
+2652,Turkey,2011-01-01,52.4
+2653,Turkey,2011-02-01,54.5
+2654,Turkey,2011-03-01,52.3
+2655,Turkey,2011-04-01,52.6
+2656,Turkey,2011-05-01,52.6
+2657,Turkey,2011-06-01,53.9
+2658,Turkey,2011-07-01,50.4
+2659,Turkey,2011-08-01,52.1
+2660,Turkey,2011-09-01,52.8
+2661,Turkey,2011-10-01,55.1
+2662,Turkey,2011-11-01,53.4
+2663,Turkey,2011-12-01,55.4
+2664,Turkey,2012-01-01,46.5
+2665,Turkey,2012-02-01,54.6
+2666,Turkey,2012-03-01,57.9
+2667,Turkey,2012-04-01,59.4
+2668,Turkey,2012-05-01,57.6
+2669,Turkey,2012-06-01,61.8
+2670,Turkey,2012-07-01,57.7
+2671,Turkey,2012-08-01,59.1
+2672,Turkey,2012-09-01,63.2
+2673,Turkey,2012-10-01,58.8
+2674,Turkey,2012-11-01,58.4
+2675,Turkey,2012-12-01,61.3
+2676,Turkey,2013-01-01,61.9
+2677,Turkey,2013-02-01,64.6
+2678,Turkey,2013-03-01,67.2
+2679,Turkey,2013-04-01,67.0
+2680,Turkey,2013-05-01,65.9
+2681,Turkey,2013-06-01,70.0
+2682,Turkey,2013-07-01,72.0
+2683,Turkey,2013-08-01,72.2
+2684,Turkey,2013-09-01,71.4
+2685,Turkey,2013-10-01,71.4
+2686,Turkey,2013-11-01,74.5
+2687,Turkey,2013-12-01,73.6
+2688,Turkey,2014-01-01,76.4
+2689,Turkey,2014-02-01,73.1
+2690,Turkey,2014-03-01,72.0
+2691,Turkey,2014-04-01,73.5
+2692,Turkey,2014-05-01,76.4
+2693,Turkey,2014-06-01,76.9
+2694,Turkey,2014-07-01,81.7
+2695,Turkey,2014-08-01,79.6
+2696,Turkey,2014-09-01,81.1
+2697,Turkey,2014-10-01,85.6
+2698,Turkey,2014-11-01,87.2
+2699,Turkey,2014-12-01,88.7
+2700,Turkey,2015-01-01,88.4
+2701,Turkey,2015-02-01,95.6
+2702,Turkey,2015-03-01,100.6
+2703,Turkey,2015-04-01,102.2
+2704,Turkey,2015-05-01,99.7
+2705,Turkey,2015-06-01,99.1
+2706,Turkey,2015-07-01,105.8
+2707,Turkey,2015-08-01,104.5
+2708,Turkey,2015-09-01,98.1
+2709,Turkey,2015-10-01,95.9
+2710,Turkey,2015-11-01,102.4
+2711,Turkey,2015-12-01,107.7
+2712,Turkey,2016-01-01,100.3
+2713,Turkey,2016-02-01,110.8
+2714,Turkey,2016-03-01,106.9
+2715,Turkey,2016-04-01,108.7
+2716,Turkey,2016-05-01,114.7
+2717,Turkey,2016-06-01,113.5
+2718,Turkey,2016-07-01,103.9
+2719,Turkey,2016-08-01,110.4
+2720,Turkey,2016-09-01,111.9
+2721,Turkey,2016-10-01,118.8
+2722,Turkey,2016-11-01,135.7
+2723,Turkey,2016-12-01,116.1
+2724,Turkey,2017-01-01,122.6
+2725,Turkey,2017-02-01,123.6
+2726,Turkey,2017-03-01,124.6
+2727,Turkey,2017-04-01,129.9
+2728,Turkey,2017-05-01,136.0
+2729,Turkey,2017-06-01,135.9
+2730,Turkey,2017-07-01,150.0
+2731,Turkey,2017-08-01,146.1
+2732,Turkey,2017-09-01,146.3
+2733,Turkey,2017-10-01,153.7
+2734,Turkey,2017-11-01,150.7
+2735,Turkey,2017-12-01,153.7
+2736,Turkey,2018-01-01,159.3
+2737,Turkey,2018-02-01,154.3
+2738,Turkey,2018-03-01,154.3
+2739,Turkey,2018-04-01,165.5
+2740,Turkey,2018-05-01,159.7
+2741,Turkey,2018-06-01,149.1
+2742,Turkey,2018-07-01,169.1
+2743,Turkey,2018-08-01,165.7
+2744,Turkey,2018-09-01,146.2
+2745,Turkey,2018-10-01,127.6
+2746,Turkey,2018-11-01,148.1
+2747,Turkey,2018-12-01,150.9
+2748,Turkey,2019-01-01,141.6
+2749,Turkey,2019-02-01,147.9
+2750,Turkey,2019-03-01,160.2
+2751,Turkey,2019-04-01,152.4
+2752,Turkey,2019-05-01,157.2
+2753,Turkey,2019-06-01,173.8
+2754,Turkey,2019-07-01,157.1
+2755,Turkey,2019-08-01,168.0
+2756,Turkey,2019-09-01,180.9
+2757,Turkey,2019-10-01,186.6
+2758,Turkey,2019-11-01,187.8
+2759,Turkey,2019-12-01,197.4
+2760,United Kingdom,2010-01-01,72.3
+2761,United Kingdom,2010-02-01,73.8
+2762,United Kingdom,2010-03-01,72.6
+2763,United Kingdom,2010-04-01,74.5
+2764,United Kingdom,2010-05-01,74.2
+2765,United Kingdom,2010-06-01,73.8
+2766,United Kingdom,2010-07-01,73.1
+2767,United Kingdom,2010-08-01,72.9
+2768,United Kingdom,2010-09-01,71.7
+2769,United Kingdom,2010-10-01,72.8
+2770,United Kingdom,2010-11-01,74.8
+2771,United Kingdom,2010-12-01,75.0
+2772,United Kingdom,2011-01-01,73.2
+2773,United Kingdom,2011-02-01,73.0
+2774,United Kingdom,2011-03-01,72.8
+2775,United Kingdom,2011-04-01,74.0
+2776,United Kingdom,2011-05-01,77.2
+2777,United Kingdom,2011-06-01,73.7
+2778,United Kingdom,2011-07-01,73.1
+2779,United Kingdom,2011-08-01,73.5
+2780,United Kingdom,2011-09-01,72.9
+2781,United Kingdom,2011-10-01,74.1
+2782,United Kingdom,2011-11-01,71.4
+2783,United Kingdom,2011-12-01,68.3
+2784,United Kingdom,2012-01-01,74.0
+2785,United Kingdom,2012-02-01,71.6
+2786,United Kingdom,2012-03-01,74.9
+2787,United Kingdom,2012-04-01,72.7
+2788,United Kingdom,2012-05-01,73.7
+2789,United Kingdom,2012-06-01,72.1
+2790,United Kingdom,2012-07-01,77.7
+2791,United Kingdom,2012-08-01,74.9
+2792,United Kingdom,2012-09-01,80.0
+2793,United Kingdom,2012-10-01,78.1
+2794,United Kingdom,2012-11-01,78.2
+2795,United Kingdom,2012-12-01,77.8
+2796,United Kingdom,2013-01-01,79.4
+2797,United Kingdom,2013-02-01,83.3
+2798,United Kingdom,2013-03-01,81.8
+2799,United Kingdom,2013-04-01,82.1
+2800,United Kingdom,2013-05-01,82.8
+2801,United Kingdom,2013-06-01,84.4
+2802,United Kingdom,2013-07-01,83.9
+2803,United Kingdom,2013-08-01,85.4
+2804,United Kingdom,2013-09-01,87.0
+2805,United Kingdom,2013-10-01,86.9
+2806,United Kingdom,2013-11-01,89.1
+2807,United Kingdom,2013-12-01,91.2
+2808,United Kingdom,2014-01-01,89.8
+2809,United Kingdom,2014-02-01,88.8
+2810,United Kingdom,2014-03-01,92.2
+2811,United Kingdom,2014-04-01,91.7
+2812,United Kingdom,2014-05-01,90.7
+2813,United Kingdom,2014-06-01,92.2
+2814,United Kingdom,2014-07-01,91.9
+2815,United Kingdom,2014-08-01,94.2
+2816,United Kingdom,2014-09-01,92.8
+2817,United Kingdom,2014-10-01,93.1
+2818,United Kingdom,2014-11-01,94.5
+2819,United Kingdom,2014-12-01,93.9
+2820,United Kingdom,2015-01-01,93.8
+2821,United Kingdom,2015-02-01,95.8
+2822,United Kingdom,2015-03-01,96.9
+2823,United Kingdom,2015-04-01,99.2
+2824,United Kingdom,2015-05-01,99.7
+2825,United Kingdom,2015-06-01,101.2
+2826,United Kingdom,2015-07-01,101.5
+2827,United Kingdom,2015-08-01,100.0
+2828,United Kingdom,2015-09-01,101.3
+2829,United Kingdom,2015-10-01,101.1
+2830,United Kingdom,2015-11-01,104.2
+2831,United Kingdom,2015-12-01,104.1
+2832,United Kingdom,2016-01-01,105.1
+2833,United Kingdom,2016-02-01,104.7
+2834,United Kingdom,2016-03-01,108.4
+2835,United Kingdom,2016-04-01,107.3
+2836,United Kingdom,2016-05-01,105.3
+2837,United Kingdom,2016-06-01,106.7
+2838,United Kingdom,2016-07-01,105.2
+2839,United Kingdom,2016-08-01,105.4
+2840,United Kingdom,2016-09-01,111.8
+2841,United Kingdom,2016-10-01,110.8
+2842,United Kingdom,2016-11-01,108.8
+2843,United Kingdom,2016-12-01,112.2
+2844,United Kingdom,2017-01-01,107.2
+2845,United Kingdom,2017-02-01,108.2
+2846,United Kingdom,2017-03-01,111.3
+2847,United Kingdom,2017-04-01,108.0
+2848,United Kingdom,2017-05-01,108.2
+2849,United Kingdom,2017-06-01,111.8
+2850,United Kingdom,2017-07-01,112.5
+2851,United Kingdom,2017-08-01,112.4
+2852,United Kingdom,2017-09-01,116.1
+2853,United Kingdom,2017-10-01,111.6
+2854,United Kingdom,2017-11-01,113.1
+2855,United Kingdom,2017-12-01,111.4
+2856,United Kingdom,2018-01-01,113.9
+2857,United Kingdom,2018-02-01,114.0
+2858,United Kingdom,2018-03-01,113.3
+2859,United Kingdom,2018-04-01,113.2
+2860,United Kingdom,2018-05-01,117.9
+2861,United Kingdom,2018-06-01,117.2
+2862,United Kingdom,2018-07-01,115.5
+2863,United Kingdom,2018-08-01,117.3
+2864,United Kingdom,2018-09-01,111.4
+2865,United Kingdom,2018-10-01,116.1
+2866,United Kingdom,2018-11-01,117.1
+2867,United Kingdom,2018-12-01,115.8
+2868,United Kingdom,2019-01-01,120.8
+2869,United Kingdom,2019-02-01,121.5
+2870,United Kingdom,2019-03-01,119.0
+2871,United Kingdom,2019-04-01,118.2
+2872,United Kingdom,2019-05-01,119.2
+2873,United Kingdom,2019-06-01,118.1
+2874,United Kingdom,2019-07-01,119.0
+2875,United Kingdom,2019-08-01,122.0
+2876,United Kingdom,2019-09-01,117.2
+2877,United Kingdom,2019-10-01,120.2
+2878,United Kingdom,2019-11-01,119.5
+2879,United Kingdom,2019-12-01,123.6
