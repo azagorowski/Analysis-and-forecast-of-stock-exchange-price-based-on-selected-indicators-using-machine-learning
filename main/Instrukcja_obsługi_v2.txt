@@ -1,11 +1,20 @@
 Instrukcja obsługi projektu
 ---------------------------
 
-I. Środowisko potrzebne do odpalenia projektu
--Dystrybucja pythona ANACONDA, wersja 2019.10 (https://www.anaconda.com/products/individual)
+I. Projekt składa sie z:
+* plików Jupyter notebook (.ipynb), w katalogu (i podkatalogach) /scripts,
+* danych zapisanych w plikach .csv oraz bazach danych sqlite (.db), w katalogu (i podkatalogach) /data
+* plików graficznych z wykresami, w katalogu (i podkatalogach) /plots
+* MAIN ???
+
+Pliki .ipynb mogą być uruchamiane niezaleznie od siebie, aczkolwiek część z nich zapisuje dane do baz(y) sqlite, z której pobierane są m.in. przez skrypt Correlations3.ipynb.
+  
+
+II. Środowisko potrzebne do odpalenia projektu
+--- Dystrybucja pythona ANACONDA, wersja 2019.10 (https://www.anaconda.com/products/individual)
 
 
-II. Bilbioteki, które należy doinstalować ręcznie (używają managera paczek Conda lub pip)  
+III. Bilbioteki, które należy doinstalować ręcznie (używają managera paczek Conda lub pip)  
 ---XGBOOST---
 1) Odpalamy Anaconda Prompt 
 2) Wpisujemy "conda install -c anaconda py-xgboost"
@@ -33,5 +42,15 @@ II. Bilbioteki, które należy doinstalować ręcznie (używają managera paczek
 ---PYJSTAT---
 1) w konsoli pythona (np. w IDE Spyder) wpisujemy "pip install pyjstat"
 Źródło: https://pypi.org/project/pyjstat/
+
+---PYTRENDS---
+1) w konsoli pythona (np. w IDE Spyder) wpisujemy "pip install pytrends"
+Źródło: https://github.com/GeneralMills/pytrends
+
+---TENSORFLOW--- (wersja => 2.1.0)
+1) W Anaconda Prompt wpisujemy "conda install tensorflow"
+2) Potwierdzamy chęć zainstalowania wpisując "Y"
+
+
 
 
