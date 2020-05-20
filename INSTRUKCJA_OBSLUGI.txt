@@ -57,13 +57,9 @@ Alternatywnie: W konsoli pythona (np. w IDE Spyder) wpisujemy "pip install pytre
 3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
 Więcej: https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/
 
-W celu pobrania danych do pliku .ipnyb , należy
 
- Aby uruchomić notebooki z predykcjami Prophet z folderu azagorowski_scripts należy podać poniżej komenatrza "# Wybranie folderu docelowego"
-w miejscu os.chdir() swoją pełną scieżke do folderu z plikami csv (końcowka scieżki: data/azagorowski_data)
-oraz w os.chdir() znajdujacym się pod rozdziałem "Saving DF with predictions to DB" wprowadzić w os.chdir(), pełną
-ścieżke do folderu gdzie znajduje się baza danych sqllite (predictions.db), (końcówka scieżki: /data)
+ Aby uruchomić pliki .ipnyb z predykcjami uzyskanymi za pomocą biblioteki Prophet z folderu azagorowski_scripts należy podać w miejscu os.chdir() (poniżej komenatrza "# Wybranie folderu docelowego") swoją pełną scieżke do folderu z plikami csv (końcowka scieżki: data/azagorowski_data) oraz w os.chdir() znajdujacym się pod rozdziałem "Saving DF with predictions to DB" wprowadzić w os.chdir(), pełną ścieżke do folderu gdzie znajduje się baza danych SQLite (predictions.db), (końcówka scieżki: /data)
 
 Aby uruchomić notebooki z predykcjami Prophet z folderu lukasz_scripts
 w chunku znajdujacym się pod rozdziałem "Saving DF with predictions to DB" wprowadzić pełną w os.chdir()
-ścieżke do folderu gdzie znajduje się baza danych sqllite (predictions.db), (końcówka scieżki: /data)
+ścieżke do folderu gdzie znajduje się baza danych SQLite (predictions.db), (końcówka scieżki: /data)
