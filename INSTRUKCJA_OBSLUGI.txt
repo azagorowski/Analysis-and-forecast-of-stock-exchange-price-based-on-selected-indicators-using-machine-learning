@@ -58,7 +58,10 @@ Alternatywnie: W konsoli pythona (np. w IDE Spyder) wpisujemy "pip install pytre
 Więcej: https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/
 
 
- Aby uruchomić pliki .ipnyb z predykcjami uzyskanymi za pomocą biblioteki Prophet z folderu azagorowski_scripts należy podać w miejscu os.chdir() (poniżej komenatrza "# Wybranie folderu docelowego") swoją pełną scieżke do folderu z plikami csv (końcowka scieżki: data/azagorowski_data) oraz w os.chdir() znajdujacym się pod rozdziałem "Saving DF with predictions to DB" wprowadzić w os.chdir(), pełną ścieżke do folderu gdzie znajduje się baza danych SQLite (predictions.db), (końcówka scieżki: /data)
+Aby uruchomić pliki .ipnyb z predykcjami uzyskanymi za pomocą biblioteki Prophet z folderu azagorowski_scripts należy podać 
+w miejscu os.chdir() (poniżej komenatrza "# Wybranie folderu docelowego") swoją pełną scieżke do folderu z plikami csv 
+(końcowka scieżki: data/azagorowski_data) oraz w os.chdir() znajdujacym się pod rozdziałem "Saving DF with predictions to DB" 
+wprowadzić w os.chdir(), pełną ścieżke do folderu gdzie znajduje się baza danych SQLite (predictions.db), (końcówka scieżki: /data)
 
 Aby uruchomić notebooki z predykcjami Prophet z folderu lukasz_scripts
 w chunku znajdujacym się pod rozdziałem "Saving DF with predictions to DB" wprowadzić pełną w os.chdir()
