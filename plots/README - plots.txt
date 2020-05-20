@@ -1,1 +1,0 @@
-Put charts images to this folder.

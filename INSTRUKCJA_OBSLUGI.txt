@@ -1,0 +1,69 @@
+Instrukcja obsługi projektu
+---------------------------
+
+I. Struktura projektu.
+
+Projekt składa sie z:
+* plików Jupyter notebook (.ipynb), w katalogu (i podkatalogach) /scripts,
+* danych zapisanych w plikach .csv oraz bazach danych sqlite (.db), w katalogu (i podkatalogach) /data
+* plików graficznych z wykresami, w katalogu (i podkatalogach) /plots
+
+Pliki .ipynb mogą być uruchamiane niezaleznie od siebie, aczkolwiek część z nich zapisuje dane do baz(y) sqlite, z której pobierane są m.in. przez skrypt Correlations_(main).ipynb .
+  
+
+II. Środowisko potrzebne do uruchomienia projektu
+--- Dystrybucja pythona ANACONDA, wersja 2019.10 (https://www.anaconda.com/products/individual)
+
+
+III. Bilbioteki, które należy doinstalować ręcznie (używają managera paczek Conda lub pip)  
+---XGBOOST---
+1) Uruchamiamy Anaconda Prompt 
+2) Wpisujemy "conda install -c anaconda py-xgboost"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Źródło: https://stackoverflow.com/questions/35139108/how-to-install-xgboost-in-anaconda-python-windows-platform
+
+---PROPHET---
+1) Uruchamiamy Anaconda Prompt 
+2) Wpisujemy "conda install -c conda-forge fbprophet"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Źródło: https://facebook.github.io/prophet/docs/installation.html
+
+---SCIKIT-LEARN---
+1) Uruchamiamy Anaconda Prompt 
+2) Wpisujemy "conda install -c anaconda scikit-learn"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Źródło: https://anaconda.org/anaconda/scikit-learn
+
+---QUANDL---
+1) Uruchamiamy Anaconda Prompt 
+2) Wpisujemy "conda install -c anaconda quandl"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Źródło: https://anaconda.org/anaconda/quandl
+
+---PYJSTAT---
+1) Uruchamiamy Anaconda Prompt
+1) Wpisujemy "pip install pyjstat"
+Alternatywnie: W konsoli pythona (np. w IDE Spyder) wpisujemy "pip install pyjstat"
+Źródło: https://pypi.org/project/pyjstat/
+
+---PYTRENDS---
+1) Uruchamiamy Anaconda Prompt
+2) Wpisujemy "pip install pytrends"
+Alternatywnie: W konsoli pythona (np. w IDE Spyder) wpisujemy "pip install pytrends"
+Źródło: https://github.com/GeneralMills/pytrends
+
+---TENSORFLOW--- (wersja => 2.1.0)
+1) W Anaconda Prompt wpisujemy "conda install tensorflow"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Więcej: https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/
+
+W celu pobrania danych do pliku .ipnyb , należy
+
+ Aby uruchomić notebooki z predykcjami Prophet z folderu azagorowski_scripts należy podać poniżej komenatrza "# Wybranie folderu docelowego"
+w miejscu os.chdir() swoją pełną scieżke do folderu z plikami csv (końcowka scieżki: data/azagorowski_data)
+oraz w os.chdir() znajdujacym się pod rozdziałem "Saving DF with predictions to DB" wprowadzić w os.chdir(), pełną
+ścieżke do folderu gdzie znajduje się baza danych sqllite (predictions.db), (końcówka scieżki: /data)
+
+Aby uruchomić notebooki z predykcjami Prophet z folderu lukasz_scripts
+w chunku znajdujacym się pod rozdziałem "Saving DF with predictions to DB" wprowadzić pełną w os.chdir()
+ścieżke do folderu gdzie znajduje się baza danych sqllite (predictions.db), (końcówka scieżki: /data)
