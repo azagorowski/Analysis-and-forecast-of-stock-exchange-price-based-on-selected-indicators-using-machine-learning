@@ -22,6 +22,24 @@ III. Bilbioteki, które należy doinstalować ręcznie (używają managera pacze
 3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
 Źródło: https://stackoverflow.com/questions/35139108/how-to-install-xgboost-in-anaconda-python-windows-platform
 
+---PLOTLY---
+1) Uruchamiamy Anaconda Prompt 
+2) Wpisujemy "conda install -c plotly plotly"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Źródło: https://anaconda.org/plotly/plotly
+
+---KERAS---
+1) Uruchamiamy Anaconda Prompt 
+2) Wpisujemy "conda install -c conda-forge keras"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Źródło: https://anaconda.org/conda-forge/keras
+
+---PANDAS-DATAREADER---
+1) Uruchamiamy Anaconda Prompt 
+2) Wpisujemy "conda install -c conda-forge pandas-datareader"
+3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+Źródło: https://anaconda.org/conda-forge/pandas-datareader
+
 ---PROPHET---
 1) Uruchamiamy Anaconda Prompt 
 2) Wpisujemy "conda install -c conda-forge fbprophet"
@@ -64,5 +82,9 @@ w miejscu os.chdir() (poniżej komenatrza "# Wybranie folderu docelowego") swoj�
 wprowadzić w os.chdir(), pełną ścieżke do folderu gdzie znajduje się baza danych SQLite (predictions.db), (końcówka scieżki: /data)
 
 Aby uruchomić notebooki z predykcjami Prophet z folderu lukasz_scripts
-w chunku znajdujacym się pod rozdziałem "Saving DF with predictions to DB" wprowadzić pełną w os.chdir()
-ścieżke do folderu gdzie znajduje się baza danych SQLite (predictions.db), (końcówka scieżki: /data)
+w chunku znajdujacym się pod rozdziałem "Saving DF with predictions to DB" wprowadzić w os.chdir()
+pełną ścieżke do folderu gdzie znajduje się baza danych SQLite (predictions.db), (końcówka scieżki: /data)
+
+Aby uruchomić notebook z predykcjami Palladium Price Prediction Using Python & Machine Learning z folderu mateusz_scripts
+w chunku w którym znajduje się w os.chdir() należy podać
+pełną ścieżke do folderu gdzie znajduje się baza danych SQLite (predictions.db), (końcówka scieżki: /data)
