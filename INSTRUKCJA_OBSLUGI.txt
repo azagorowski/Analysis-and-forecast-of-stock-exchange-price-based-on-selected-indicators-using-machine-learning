@@ -1,4 +1,4 @@
-Instrukcja obsługi projektu
+[PL]Instrukcja obsługi projektu
 ---------------------------
 
 I. Struktura projektu.
@@ -60,7 +60,7 @@ III. Bilbioteki, które należy doinstalować ręcznie (używają managera pacze
 
 ---PYJSTAT---
 1) Uruchamiamy Anaconda Prompt
-1) Wpisujemy "pip install pyjstat"
+2) Wpisujemy "pip install pyjstat"
 Alternatywnie: W konsoli pythona (np. w IDE Spyder) wpisujemy "pip install pyjstat"
 Źródło: https://pypi.org/project/pyjstat/
 
@@ -72,7 +72,7 @@ Alternatywnie: W konsoli pythona (np. w IDE Spyder) wpisujemy "pip install pytre
 
 ---TENSORFLOW--- (wersja => 2.1.0)
 1) W Anaconda Prompt wpisujemy "conda install tensorflow"
-3) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+2) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
 Więcej: https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/
 
 
