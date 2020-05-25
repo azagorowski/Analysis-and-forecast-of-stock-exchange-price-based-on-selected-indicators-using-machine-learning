@@ -16,6 +16,10 @@ Pliki .ipynb mogą być uruchamiane niezaleznie od siebie, aczkolwiek część z
 II. Środowisko potrzebne do uruchomienia projektu
 --- Dystrybucja pythona ANACONDA, wersja 2019.10 (https://www.anaconda.com/products/individual)
 
+--- Aktualizacja środowiska:
+Anaconda Navigator można zaktualizować w konsoli Anaconda Prompt wpisując polecenie "conda update conda" 
+Gdy pojawi sie zapytanie [y/n] należy wpisać "y"
+
 
 III. Bilbioteki, które należy doinstalować ręcznie (używają managera paczek Conda lub pip)  
 ---XGBOOST---
