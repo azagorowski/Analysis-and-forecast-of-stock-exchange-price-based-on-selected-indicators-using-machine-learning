@@ -20,8 +20,18 @@ II. Środowisko potrzebne do uruchomienia projektu
 Anaconda Navigator można zaktualizować w konsoli Anaconda Prompt wpisując polecenie "conda update conda" 
 Gdy pojawi sie zapytanie [y/n] należy wpisać "y"
 
+Zalecia się aktualizację następujących bibliotek zainstalowanych wraz z Anaconda Navigator przy użyciu konsoli Anaconda Prompt:
 
-III. Bilbioteki, które należy doinstalować ręcznie (używają managera paczek Conda lub pip)  
+---NUMPY---
+1) Wpisujemy "conda update numpy"
+2) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+
+---PANDAS---
+1) Wpisujemy "conda update pandas"
+2) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+
+III. Bilbioteki, które należy doinstalować ręcznie (używają managera paczek Conda lub pip)
+
 ---XGBOOST---
 1) Uruchamiamy Anaconda Prompt 
 2) Wpisujemy "conda install -c anaconda py-xgboost"
