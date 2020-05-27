@@ -1,4 +1,11 @@
-[EN] Coming soon
+[EN] Section will be ready soon
+
+I. Project Structure 
+
+The project consists of:
+* Jupyter Notebook files (.ipynb) in following subdirectory: /scripts
+* Data files (.csv) and databases (.db) in following subdirectory: /data
+* Graphic files with charts in following subdirectory: /plots
 
 [PL]Instrukcja obsługi projektu
 ---------------------------
@@ -6,7 +13,7 @@
 I. Struktura projektu.
 
 Projekt składa sie z:
-* plików Jupyter notebook (.ipynb), w katalogu (i podkatalogach) /scripts,
+* plików Jupyter Notebook (.ipynb), w katalogu (i podkatalogach) /scripts,
 * danych zapisanych w plikach .csv oraz bazach danych sqlite (.db), w katalogu (i podkatalogach) /data
 * plików graficznych z wykresami, w katalogu (i podkatalogach) /plots
 
@@ -29,6 +36,8 @@ Zalecia się aktualizację następujących bibliotek zainstalowanych wraz z Anac
 ---PANDAS---
 1) Wpisujemy "conda update pandas"
 2) Gdy pojawi sie zapytanie [Y/N] wprowadzamy Y
+
+Do podglądu baz danych zastosowano program SQLite (v 3.2.1)
 
 III. Bilbioteki, które należy doinstalować ręcznie (używają managera paczek Conda lub pip)
 
