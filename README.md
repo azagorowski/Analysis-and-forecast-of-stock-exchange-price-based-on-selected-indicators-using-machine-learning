@@ -19,7 +19,7 @@ Preview 5 - Predicted prices:
 
 **Release date: May 2020**
 
-Project is being created by 4 authors:
+Project has been created by 4 authors:
  - azagorowski
  - LukaszStarke
  - CuriousCocainist
