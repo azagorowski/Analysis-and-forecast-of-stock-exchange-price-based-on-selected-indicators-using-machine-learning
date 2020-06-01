@@ -7,6 +7,10 @@ Preview:
 Preview 2: 
 ![alt text](https://raw.githubusercontent.com/azagorowski/Analysis-and-forecast-of-stock-exchange-price-based-on-selected-indicators-using-machine-learning/master/plots/azagorowski_charts/Crude_oil_forecast_2021_2.PNG "Preview 2")
 
+Preview 3:  
+![alt text](https://raw.githubusercontent.com/azagorowski/Analysis-and-forecast-of-stock-exchange-price-based-on-selected-indicators-using-machine-learning/master/plots/azagorowski_charts/Peabody_Energy_correlation.PNG "Preview 3")
+
+
 **Release date: May 2020**
 
 Project is being created by 4 authors:
