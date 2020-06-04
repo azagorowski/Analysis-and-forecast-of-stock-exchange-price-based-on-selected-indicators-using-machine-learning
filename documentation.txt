@@ -7,6 +7,14 @@ The project consists of:
 * Data files (.csv) and databases (.db) in following subdirectory: /data
 * Graphic files with charts in following subdirectory: /plots
 
+.ipynb files can be runned independently although some of them is saving data to sqlite database
+
+II. IDE necessary to run
+
+Anaconda Navigator (2019.10 version) (https://www.anaconda.com/products/individual)
+
+Actualization of IDE:
+
 [PL]Instrukcja obsługi projektu
 ---------------------------
 
