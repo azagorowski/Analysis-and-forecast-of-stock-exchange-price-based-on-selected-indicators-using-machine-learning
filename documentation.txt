@@ -1,4 +1,4 @@
-[EN] Section will be ready soon
+[EN] Project documentation
 
 I. Project Structure 
 
@@ -14,6 +14,74 @@ II. IDE necessary to run
 Anaconda Navigator (2019.10 version) (https://www.anaconda.com/products/individual)
 
 Actualization of IDE:
+You can update Anaconda Navigator in Anaconda Prompt console by typing "conda update conda", 
+then if [y/n] appears, type "y".
+
+Actualization of Numpy and Pandas libraries to the latest version is recommended.
+You can update following libraries by typing in Anaconda Prompt following commands:
+- "conda update numpy"
+- "conda update pandas"
+
+III. Other libraries:
+
+---XGBOOST---
+1) Run Anaconda Prompt 
+2) Type "conda install -c anaconda py-xgboost"
+3) When you will see a question [Y/N] type Y
+Source: https://stackoverflow.com/questions/35139108/how-to-install-xgboost-in-anaconda-python-windows-platform
+
+---PLOTLY---
+1) Run Anaconda Prompt 
+2) Type "conda install -c plotly plotly"
+3) When you will see a question [Y/N] type Y
+Source: https://anaconda.org/plotly/plotly
+
+---KERAS---
+1) Run Anaconda Prompt 
+2) Type "conda install -c conda-forge keras"
+3) When you will see a question [Y/N] type Y
+Source: https://anaconda.org/conda-forge/keras
+
+---PANDAS-DATAREADER---
+1) Run Anaconda Prompt 
+2) Type "conda install -c conda-forge pandas-datareader"
+3) When you will see a question [Y/N] type Y
+Source: https://anaconda.org/conda-forge/pandas-datareader
+
+---PROPHET---
+1) Run Anaconda Prompt 
+2) Type "conda install -c conda-forge fbprophet"
+3) When you will see a question [Y/N] type Y
+Source: https://facebook.github.io/prophet/docs/installation.html
+
+---SCIKIT-LEARN---
+1) Run Anaconda Prompt 
+2) Type "conda install -c anaconda scikit-learn"
+3) When you will see a question [Y/N] type Y
+Source: https://anaconda.org/anaconda/scikit-learn
+
+---QUANDL---
+1) Run Anaconda Prompt 
+2) Type "conda install -c anaconda quandl"
+3) When you will see a question [Y/N] type Y
+Source: https://anaconda.org/anaconda/quandl
+
+---PYJSTAT---
+1) Run Anaconda Prompt
+2) Type "pip install pyjstat"
+Source: https://pypi.org/project/pyjstat/
+
+---PYTRENDS---
+1) Run Anaconda Prompt
+2) Type "pip install pytrends"
+Source: https://github.com/GeneralMills/pytrends
+
+---TENSORFLOW--- (wersja => 2.1.0)
+1) Run Anaconda Prompt
+2) Type "conda install tensorflow"
+3) When you will see a question [Y/N] type Y
+More: https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/
+
 
 [PL]Instrukcja obsługi projektu
 ---------------------------
