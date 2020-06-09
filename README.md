@@ -10,7 +10,7 @@ Preview 2 - Plot with predicted values:
 Preview 3 - Correlation heatmap:  
 ![alt text](https://raw.githubusercontent.com/azagorowski/Analysis-and-forecast-of-stock-exchange-price-based-on-selected-indicators-using-machine-learning/master/plots/azagorowski_charts/Peabody_Energy_correlation.PNG "Preview 3")
 
-Preview 4 - Predictive models comparison:  
+Preview 4 - Predictive models R2-Scores comparison:  
 ![alt text](https://raw.githubusercontent.com/azagorowski/Analysis-and-forecast-of-stock-exchange-price-based-on-selected-indicators-using-machine-learning/master/plots/azagorowski_charts/model_comparison.PNG "Preview 4")
 
 Preview 5 - Predicted prices:  
