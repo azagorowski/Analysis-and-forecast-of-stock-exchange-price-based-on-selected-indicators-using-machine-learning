@@ -28,7 +28,7 @@ Preview 7 - Predicted prices:
 Project has been created by 4 authors:
  - azagorowski
  - LukaszStarke
- - CuriousCocainist
+ - Bartłomiej Łukasz
  - mateusz-creator
 
 **How to run**
